@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 297" width="210" height="297">
+  <rect width="210" height="297" fill="#ffffff" />
+  <rect x="0" y="0" width="210" height="70" fill="#e77f67" opacity="0.06" />
+  <rect x="105" y="14" width="20" height="6" rx="3" fill="#e77f67" opacity="0.4" />
+  <rect x="80" y="24" width="50" height="20" rx="10" fill="#e77f67" opacity="0.08" />
+  <rect x="80" y="24" width="50" height="4" rx="2" fill="#e77f67" />
+  <rect x="80" y="34" width="30" height="3" rx="1.5" fill="#f19066" opacity="0.6" />
+  <rect x="20" y="86" width="170" height="4" rx="2" fill="#e77f67" opacity="0.12" />
+  <rect x="20" y="96" width="170" height="3" rx="1.5" fill="#e77f67" opacity="0.08" />
+  <rect x="20" y="104" width="140" height="3" rx="1.5" fill="#e77f67" opacity="0.08" />
+  <rect x="20" y="112" width="155" height="3" rx="1.5" fill="#e77f67" opacity="0.08" />
+  <rect x="20" y="120" width="130" height="3" rx="1.5" fill="#e77f67" opacity="0.08" />
+  <rect x="20" y="140" width="100" height="4" rx="2" fill="#e77f67" opacity="0.12" />
+  <rect x="20" y="150" width="170" height="3" rx="1.5" fill="#e77f67" opacity="0.08" />
+  <rect x="20" y="158" width="140" height="3" rx="1.5" fill="#e77f67" opacity="0.08" />
+  <rect x="20" y="166" width="155" height="3" rx="1.5" fill="#e77f67" opacity="0.08" />
+  <rect x="20" y="174" width="130" height="3" rx="1.5" fill="#e77f67" opacity="0.08" />
+  <rect x="20" y="194" width="100" height="4" rx="2" fill="#e77f67" opacity="0.12" />
+  <rect x="20" y="204" width="170" height="3" rx="1.5" fill="#e77f67" opacity="0.08" />
+  <rect x="20" y="212" width="140" height="3" rx="1.5" fill="#e77f67" opacity="0.08" />
+  <rect x="20" y="220" width="155" height="3" rx="1.5" fill="#e77f67" opacity="0.08" />
+  <rect x="20" y="228" width="130" height="3" rx="1.5" fill="#e77f67" opacity="0.08" />
+  <rect x="20" y="248" width="80" height="4" rx="2" fill="#e77f67" opacity="0.12" />
+  <rect x="20" y="258" width="170" height="3" rx="1.5" fill="#e77f67" opacity="0.08" />
+  <rect x="20" y="266" width="140" height="3" rx="1.5" fill="#e77f67" opacity="0.08" />
+  <rect x="20" y="274" width="120" height="3" rx="1.5" fill="#e77f67" opacity="0.08" />
+  <text x="105" y="250" text-anchor="middle" fill="#e77f67" opacity="0.5" font-size="7" font-family="sans-serif">Stage / Alternance</text>
+</svg>

@@ -1,0 +1,14 @@
+{
+  "name": "moncv",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "cd frontend && npm install && npm run build && cd ../backend && npm install && npx tsc",
+    "start": "cd backend && node dist/server.js",
+    "dev:backend": "cd backend && npx tsx src/server.ts",
+    "dev:frontend": "cd frontend && npx vite --host 0.0.0.0",
+    "test": "cd backend && npm test && cd ../frontend && npm test",
+    "seed": "cd backend && npx tsx src/db/seed.ts",
+    "postinstall": "cd backend && npm install && cd ../frontend && npm install"
+  }
+}

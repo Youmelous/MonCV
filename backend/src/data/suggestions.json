@@ -1,0 +1,4076 @@
+[
+  {
+    "section": "experience",
+    "jobCategory": "développement",
+    "job": "Développeur Full Stack",
+    "text": "Développement d applications web responsives avec React et Node.js",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "développement",
+    "job": "Développeur Full Stack",
+    "text": "Conception et maintenance d APIs RESTful pour applications métier",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "développement",
+    "job": "Développeur Full Stack",
+    "text": "Optimisation des performances et du temps de chargement",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "développement",
+    "job": "Développeur Full Stack",
+    "text": "Participation aux revues de code et à l amélioration continue",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "développement",
+    "job": "Développeur Full Stack",
+    "text": "Rédaction de tests unitaires et d intégration avec Jest et Cypress",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "développement",
+    "job": "Développeur Full Stack",
+    "text": "Déploiement continu et maintenance d applications sur AWS",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "développement",
+    "job": "Développeur Full Stack",
+    "text": "Mise en place de bases de données relationnelles et non relationnelles",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "développement",
+    "job": "Développeur Full Stack",
+    "text": "Collaboration en méthodologie Agile Scrum avec l équipe produit",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "développement",
+    "job": "Développeur Full Stack",
+    "text": "Intégration de passerelles de paiement et services tiers",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "développement",
+    "job": "Développeur Full Stack",
+    "text": "Mise en place de conteneurs Docker et orchestration Kubernetes",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "développement",
+    "job": "Développeur Frontend",
+    "text": "Création d interfaces utilisateur modernes avec React et TypeScript",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "développement",
+    "job": "Développeur Frontend",
+    "text": "Intégration de maquettes Figma en composants réutilisables",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "développement",
+    "job": "Développeur Frontend",
+    "text": "Mise en place d un design system et de composants atomiques",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "développement",
+    "job": "Développeur Frontend",
+    "text": "Optimisation du Core Web Vitals et de l expérience utilisateur",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "développement",
+    "job": "Développeur Frontend",
+    "text": "Développement d applications mobiles avec React Native",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "développement",
+    "job": "Développeur Frontend",
+    "text": "Animation CSS et transitions pour une expérience utilisateur fluide",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "développement",
+    "job": "Développeur Frontend",
+    "text": "Implémentation de l accessibilité web WCAG",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "développement",
+    "job": "Développeur Backend",
+    "text": "Conception d architectures microservices avec Node.js et Express",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "développement",
+    "job": "Développeur Backend",
+    "text": "Modélisation et optimisation de bases de données SQL et NoSQL",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "développement",
+    "job": "Développeur Backend",
+    "text": "Implémentation de systèmes d authentification JWT et OAuth",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "développement",
+    "job": "Développeur Backend",
+    "text": "Mise en place de CI/CD et déploiement sur infrastructure cloud",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "développement",
+    "job": "Développeur Backend",
+    "text": "Développement de webhooks et d intégrations avec des API tierces",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "développement",
+    "job": "Développeur Backend",
+    "text": "Optimisation des requêtes et gestion de la montée en charge",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "développement",
+    "job": "Développeur Backend",
+    "text": "Mise en place d une architecture orientée événements",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "développement",
+    "job": "Chef de projet technique",
+    "text": "Encadrement d une équipe de 5 à 10 développeurs",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "développement",
+    "job": "Chef de projet technique",
+    "text": "Définition de l architecture technique et choix des technologies",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "développement",
+    "job": "Chef de projet technique",
+    "text": "Gestion du backlog technique et priorisation des tâches",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "développement",
+    "job": "Chef de projet technique",
+    "text": "Mise en place des bonnes pratiques de développement",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "développement",
+    "job": "Développeur Mobile",
+    "text": "Développement d applications iOS et Android natives",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "développement",
+    "job": "Développeur Mobile",
+    "text": "Publication et maintenance d applications sur App Store et Google Play",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "développement",
+    "job": "Développeur Mobile",
+    "text": "Intégration de fonctionnalités mobiles : notifications push, GPS, caméra",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "développement",
+    "job": "Développeur Mobile",
+    "text": "Optimisation des performances et de la consommation batterie",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "développement",
+    "job": "Data Scientist",
+    "text": "Analyse de grands volumes de données avec Python et Pandas",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "développement",
+    "job": "Data Scientist",
+    "text": "Création de modèles de machine learning et deep learning",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "développement",
+    "job": "Data Scientist",
+    "text": "Mise en production de modèles avec des API REST",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "développement",
+    "job": "Data Scientist",
+    "text": "Visualisation de données avec Matplotlib, Seaborn et Tableau",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "développement",
+    "job": "Data Scientist",
+    "text": "Nettoyage et préparation des données pour l analyse",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "marketing",
+    "job": "Chef de projet marketing",
+    "text": "Élaboration et suivi de campagnes marketing multicanales",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "marketing",
+    "job": "Chef de projet marketing",
+    "text": "Analyse des performances des campagnes et optimisation du ROI",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "marketing",
+    "job": "Chef de projet marketing",
+    "text": "Gestion d un budget marketing annuel",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "marketing",
+    "job": "Chef de projet marketing",
+    "text": "Coordination avec les équipes créatives et commerciales",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "marketing",
+    "job": "Chef de projet marketing",
+    "text": "Mise en place d une stratégie de référencement SEO/SEA",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "marketing",
+    "job": "Chef de projet marketing",
+    "text": "Pilotage d une équipe de 3 à 5 personnes",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "marketing",
+    "job": "Community Manager",
+    "text": "Animation et modération des communautés Instagram, LinkedIn et Twitter",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "marketing",
+    "job": "Community Manager",
+    "text": "Création d un calendrier éditorial et production de contenus visuels",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "marketing",
+    "job": "Community Manager",
+    "text": "Augmentation du taux d engagement sur les réseaux sociaux",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "marketing",
+    "job": "Community Manager",
+    "text": "Veille concurrentielle et analyse des tendances du secteur",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "marketing",
+    "job": "Community Manager",
+    "text": "Gestion de la relation client et réponse aux commentaires",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "marketing",
+    "job": "Community Manager",
+    "text": "Création et gestion de campagnes d influence",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "marketing",
+    "job": "Traffic Manager",
+    "text": "Gestion et optimisation des campagnes Google Ads et Facebook Ads",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "marketing",
+    "job": "Traffic Manager",
+    "text": "Analyse des données de trafic et reporting hebdomadaire",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "marketing",
+    "job": "Traffic Manager",
+    "text": "Mise en place de stratégies d acquisition et de rétention",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "marketing",
+    "job": "Traffic Manager",
+    "text": "A/B testing des landing pages et optimisation du taux de conversion",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "marketing",
+    "job": "Traffic Manager",
+    "text": "Gestion d un budget de diffusion mensuel",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "marketing",
+    "job": "Rédacteur web",
+    "text": "Rédaction d articles SEO optimisés pour le blog de l entreprise",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "marketing",
+    "job": "Rédacteur web",
+    "text": "Création de contenus pour les réseaux sociaux et newsletters",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "marketing",
+    "job": "Rédacteur web",
+    "text": "Réalisation d interviews et de portraits d experts",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "marketing",
+    "job": "Rédacteur web",
+    "text": "Mise à jour et optimisation du contenu existant",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "marketing",
+    "job": "Rédacteur web",
+    "text": "Stratégie de contenu et calendrier éditorial",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "commerce",
+    "job": "Commercial terrain",
+    "text": "Prospection et développement d un portefeuille clients B2B",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "commerce",
+    "job": "Commercial terrain",
+    "text": "Négociation et conclusion de contrats avec des clients grands comptes",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "commerce",
+    "job": "Commercial terrain",
+    "text": "Suivi des indicateurs commerciaux et reporting mensuel",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "commerce",
+    "job": "Commercial terrain",
+    "text": "Atteinte et dépassement des objectifs de vente",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "commerce",
+    "job": "Commercial terrain",
+    "text": "Organisation de salons professionnels et d événements",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "commerce",
+    "job": "Commercial terrain",
+    "text": "Fidélisation des clients et développement du chiffre d affaires",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "commerce",
+    "job": "Téléconseiller",
+    "text": "Gestion d un volume d appels entrants et sortants quotidien",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "commerce",
+    "job": "Téléconseiller",
+    "text": "Conseil client et vente de produits par téléphone",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "commerce",
+    "job": "Téléconseiller",
+    "text": "Atteinte des objectifs de vente et de satisfaction client",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "commerce",
+    "job": "Téléconseiller",
+    "text": "Saisie et mise à jour des informations clients dans le CRM",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "commerce",
+    "job": "Téléconseiller",
+    "text": "Traitement des réclamations et suivi des dossiers",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "commerce",
+    "job": "Assistant commercial",
+    "text": "Gestion des commandes et suivi des devis clients",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "commerce",
+    "job": "Assistant commercial",
+    "text": "Mise à jour du CRM et saisie des opportunités commerciales",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "commerce",
+    "job": "Assistant commercial",
+    "text": "Préparation des documents commerciaux et des relances clients",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "commerce",
+    "job": "Assistant commercial",
+    "text": "Support à l équipe commerciale dans le suivi des affaires",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "commerce",
+    "job": "Responsable magasin",
+    "text": "Gestion complète d un magasin",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "commerce",
+    "job": "Responsable magasin",
+    "text": "Management d une équipe de vendeurs",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "commerce",
+    "job": "Responsable magasin",
+    "text": "Suivi des stocks, des commandes et des réassorts",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "commerce",
+    "job": "Responsable magasin",
+    "text": "Atteinte des objectifs de chiffre d affaires et de marge",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "commerce",
+    "job": "Vendeur",
+    "text": "Accueil et conseil des clients en magasin",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "commerce",
+    "job": "Vendeur",
+    "text": "Atteinte des objectifs de vente individuels et collectifs",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "commerce",
+    "job": "Vendeur",
+    "text": "Mise en rayon et merchandising des produits",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "commerce",
+    "job": "Vendeur",
+    "text": "Fidélisation de la clientèle et développement du panier moyen",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "rh",
+    "job": "Responsable RH",
+    "text": "Élaboration et suivi du plan de recrutement annuel",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "rh",
+    "job": "Responsable RH",
+    "text": "Gestion de la paie et des administrations du personnel",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "rh",
+    "job": "Responsable RH",
+    "text": "Mise en place d une politique de formation et de développement",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "rh",
+    "job": "Responsable RH",
+    "text": "Accompagnement des managers dans la gestion de leurs équipes",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "rh",
+    "job": "Responsable RH",
+    "text": "Conduite d entretiens professionnels et annuels",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "rh",
+    "job": "Responsable RH",
+    "text": "Gestion des relations sociales et négociations avec les IRP",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "rh",
+    "job": "Responsable RH",
+    "text": "Mise en place d une politique de télétravail et QVCT",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "rh",
+    "job": "Chargé de recrutement",
+    "text": "Rédaction et diffusion des offres d emploi sur les jobboards",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "rh",
+    "job": "Chargé de recrutement",
+    "text": "Présélection et conduite d entretiens de recrutement",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "rh",
+    "job": "Chargé de recrutement",
+    "text": "Sourcing de candidats via LinkedIn et autres plateformes",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "rh",
+    "job": "Chargé de recrutement",
+    "text": "Suivi de l intégration et du parcours des nouveaux collaborateurs",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "rh",
+    "job": "Chargé de recrutement",
+    "text": "Développement de la marque employeur",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "rh",
+    "job": "Chargé de recrutement",
+    "text": "Organisation de jobdatings et forums de recrutement",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "rh",
+    "job": "Assistant RH",
+    "text": "Suivi des dossiers administratifs du personnel",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "rh",
+    "job": "Assistant RH",
+    "text": "Préparation des contrats de travail et des avenants",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "rh",
+    "job": "Assistant RH",
+    "text": "Gestion des absences, congés et arrêts maladie",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "rh",
+    "job": "Assistant RH",
+    "text": "Participation à l organisation des formations",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "finance",
+    "job": "Comptable",
+    "text": "Tenue de la comptabilité générale jusqu au bilan",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "finance",
+    "job": "Comptable",
+    "text": "Gestion de la TVA et déclarations fiscales mensuelles",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "finance",
+    "job": "Comptable",
+    "text": "Rapprochements bancaires et suivi de trésorerie",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "finance",
+    "job": "Comptable",
+    "text": "Préparation des liasses fiscales et bilan annuel",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "finance",
+    "job": "Comptable",
+    "text": "Gestion de la paie et des charges sociales",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "finance",
+    "job": "Comptable",
+    "text": "Suivi des comptes clients et fournisseurs",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "finance",
+    "job": "Contrôleur de gestion",
+    "text": "Élaboration et suivi des budgets par service",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "finance",
+    "job": "Contrôleur de gestion",
+    "text": "Analyse des écarts et recommandations d actions correctives",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "finance",
+    "job": "Contrôleur de gestion",
+    "text": "Reporting de gestion mensuel pour la direction",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "finance",
+    "job": "Contrôleur de gestion",
+    "text": "Calcul et analyse des coûts de revient par produit",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "finance",
+    "job": "Contrôleur de gestion",
+    "text": "Participation à l élaboration du budget annuel",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "finance",
+    "job": "Analyste financier",
+    "text": "Analyse des états financiers et des ratios de performance",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "finance",
+    "job": "Analyste financier",
+    "text": "Suivi des flux de trésorerie et prévisions financières",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "finance",
+    "job": "Analyste financier",
+    "text": "Participation aux levées de fonds et relations investisseurs",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "finance",
+    "job": "Analyste financier",
+    "text": "Évaluation de projets d investissement et calcul du ROI",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "design",
+    "job": "Designer UX/UI",
+    "text": "Conception de parcours utilisateur et de wireframes",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "design",
+    "job": "Designer UX/UI",
+    "text": "Réalisation de maquettes interactives sur Figma",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "design",
+    "job": "Designer UX/UI",
+    "text": "Animation d ateliers de design thinking",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "design",
+    "job": "Designer UX/UI",
+    "text": "Tests utilisateurs et itération des prototypes",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "design",
+    "job": "Designer UX/UI",
+    "text": "Création et maintenance d un design system",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "design",
+    "job": "Designer UX/UI",
+    "text": "Collaboration avec les développeurs pour l implémentation",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "design",
+    "job": "Graphiste",
+    "text": "Création d identités visuelles et de chartes graphiques",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "design",
+    "job": "Graphiste",
+    "text": "Réalisation de supports print et digitaux variés",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "design",
+    "job": "Graphiste",
+    "text": "Direction artistique de projets éditoriaux et publicitaires",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "design",
+    "job": "Graphiste",
+    "text": "Maîtrise de la suite Adobe : Photoshop, Illustrator, InDesign",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "design",
+    "job": "Graphiste",
+    "text": "Création de contenus pour réseaux sociaux et campagnes emailing",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "design",
+    "job": "Motion Designer",
+    "text": "Création de vidéos animées pour le web et les réseaux sociaux",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "design",
+    "job": "Motion Designer",
+    "text": "Réalisation de vidéos explicatives et de démonstration produit",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "design",
+    "job": "Motion Designer",
+    "text": "Animation de logos, typographies et éléments graphiques",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "design",
+    "job": "Motion Designer",
+    "text": "Montage vidéo et post-production sur After Effects, Premiere Pro",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "management",
+    "job": "Chef de projet",
+    "text": "Gestion de projets de l étude d opportunité au déploiement",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "management",
+    "job": "Chef de projet",
+    "text": "Planification et suivi des jalons avec les équipes",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "management",
+    "job": "Chef de projet",
+    "text": "Gestion des risques, des budgets et des délais",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "management",
+    "job": "Chef de projet",
+    "text": "Reporting régulier auprès de la direction",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "management",
+    "job": "Chef de projet",
+    "text": "Animation des réunions hebdomadaires de suivi",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "management",
+    "job": "Chef de projet",
+    "text": "Mise en place d outils de gestion de projet Notion, Jira, Trello",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "management",
+    "job": "Product Manager",
+    "text": "Définition et priorisation de la feuille de route produit",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "management",
+    "job": "Product Manager",
+    "text": "Rédaction de spécifications fonctionnelles et de user stories",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "management",
+    "job": "Product Manager",
+    "text": "Analyse des métriques produit et optimisation de la rétention",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "management",
+    "job": "Product Manager",
+    "text": "Benchmark concurrentiel et veille du marché",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "management",
+    "job": "Product Manager",
+    "text": "Coordination entre les équipes techniques, marketing et commerciales",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "management",
+    "job": "Product Manager",
+    "text": "Conduite d entretiens utilisateurs et tests de concept",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "administratif",
+    "job": "Assistant de direction",
+    "text": "Gestion de l agenda et des déplacements du dirigeant",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "administratif",
+    "job": "Assistant de direction",
+    "text": "Organisation de réunions et de comités de direction",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "administratif",
+    "job": "Assistant de direction",
+    "text": "Rédaction de comptes rendus et suivi des actions",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "administratif",
+    "job": "Assistant de direction",
+    "text": "Préparation des dossiers pour les réunions stratégiques",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "administratif",
+    "job": "Assistant administratif",
+    "text": "Accueil téléphonique et physique des visiteurs",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "administratif",
+    "job": "Assistant administratif",
+    "text": "Classement, archivage et numérisation des documents",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "administratif",
+    "job": "Assistant administratif",
+    "text": "Gestion du courrier et des expéditions",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "administratif",
+    "job": "Assistant administratif",
+    "text": "Suivi des commandes de fournitures de bureau",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "administratif",
+    "job": "Secrétaire comptable",
+    "text": "Saisie des factures et suivi des règlements",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "administratif",
+    "job": "Secrétaire comptable",
+    "text": "Relance clients et gestion des impayés",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "administratif",
+    "job": "Secrétaire comptable",
+    "text": "Préparation des déclarations de TVA",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "administratif",
+    "job": "Secrétaire comptable",
+    "text": "Suivi de la trésorerie et rapprochements bancaires",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "santé",
+    "job": "Infirmier",
+    "text": "Prise en charge et suivi des patients dans le respect des protocoles",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "santé",
+    "job": "Infirmier",
+    "text": "Administration des traitements et surveillance des constantes",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "santé",
+    "job": "Infirmier",
+    "text": "Coordination avec l équipe médicale pour la continuité des soins",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "santé",
+    "job": "Infirmier",
+    "text": "Éducation thérapeutique des patients et de leur entourage",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "santé",
+    "job": "Infirmier",
+    "text": "Gestion des dossiers de soins informatisés",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "santé",
+    "job": "Infirmier",
+    "text": "Participation aux staffs et à l amélioration continue de la qualité",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "santé",
+    "job": "Aide-soignant",
+    "text": "Accompagnement des patients dans les actes de la vie quotidienne",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "santé",
+    "job": "Aide-soignant",
+    "text": "Collaboration avec l équipe soignante pour le bien-être des résidents",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "santé",
+    "job": "Aide-soignant",
+    "text": "Entretien de l environnement immédiat du patient",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "santé",
+    "job": "Aide-soignant",
+    "text": "Observation et transmission des informations sur l état des patients",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "santé",
+    "job": "Médecin",
+    "text": "Consultations et suivi médical des patients",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "santé",
+    "job": "Médecin",
+    "text": "Prescription et interprétation d examens complémentaires",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "santé",
+    "job": "Médecin",
+    "text": "Participation aux gardes et astreintes",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "santé",
+    "job": "Médecin",
+    "text": "Encadrement des internes et des étudiants en médecine",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "enseignement",
+    "job": "Professeur des écoles",
+    "text": "Enseignement auprès d élèves de niveau primaire",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "enseignement",
+    "job": "Professeur des écoles",
+    "text": "Préparation des séquences pédagogiques et évaluation des acquis",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "enseignement",
+    "job": "Professeur des écoles",
+    "text": "Différenciation pédagogique pour les élèves à besoins particuliers",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "enseignement",
+    "job": "Professeur des écoles",
+    "text": "Participation aux projets d école et aux conseils des maîtres",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "enseignement",
+    "job": "Enseignant collège",
+    "text": "Enseignement de la discipline en collège et lycée",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "enseignement",
+    "job": "Enseignant collège",
+    "text": "Construction et évaluation des séquences pédagogiques",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "enseignement",
+    "job": "Enseignant collège",
+    "text": "Suivi personnalisé des élèves et accompagnement à l orientation",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "enseignement",
+    "job": "Enseignant collège",
+    "text": "Participation aux conseils de classe et réunions parents-professeurs",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "enseignement",
+    "job": "Professeur université",
+    "text": "Enseignement en licence et master dans le domaine de",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "enseignement",
+    "job": "Professeur université",
+    "text": "Direction de thèses et de mémoires de recherche",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "enseignement",
+    "job": "Professeur université",
+    "text": "Publication d articles scientifiques dans des revues à comité de lecture",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "enseignement",
+    "job": "Professeur université",
+    "text": "Participation à des conférences nationales et internationales",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "enseignement",
+    "job": "Formateur",
+    "text": "Conception de modules de formation blended",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "enseignement",
+    "job": "Formateur",
+    "text": "Animation de sessions de formation pour groupes",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "enseignement",
+    "job": "Formateur",
+    "text": "Évaluation des acquis et adaptation du contenu pédagogique",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "enseignement",
+    "job": "Formateur",
+    "text": "Création de supports de formation et de documentation",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "logistique",
+    "job": "Magasinier",
+    "text": "Réception et contrôle des marchandises",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "logistique",
+    "job": "Magasinier",
+    "text": "Stockage et organisation des articles en entrepôt",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "logistique",
+    "job": "Magasinier",
+    "text": "Préparation et expédition des commandes clients",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "logistique",
+    "job": "Magasinier",
+    "text": "Gestion des stocks et inventaire périodique",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "logistique",
+    "job": "Cariste",
+    "text": "Conduite d engins de manutention CACES 1, 3, 5",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "logistique",
+    "job": "Cariste",
+    "text": "Chargement et déchargement des camions",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "logistique",
+    "job": "Cariste",
+    "text": "Mise en place des palettes et respect des zones de stockage",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "logistique",
+    "job": "Cariste",
+    "text": "Contrôle de conformité des expéditions",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "logistique",
+    "job": "Responsable logistique",
+    "text": "Supervision des opérations logistiques : réception, stockage, expédition",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "logistique",
+    "job": "Responsable logistique",
+    "text": "Management d une équipe d opérateurs et caristes",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "logistique",
+    "job": "Responsable logistique",
+    "text": "Optimisation des flux et des coûts logistiques",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "logistique",
+    "job": "Responsable logistique",
+    "text": "Mise en place d indicateurs de performance logistique",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "hôtellerie",
+    "job": "Réceptionniste",
+    "text": "Accueil des clients et check-in / check-out",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "hôtellerie",
+    "job": "Réceptionniste",
+    "text": "Gestion des réservations et des appels téléphoniques",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "hôtellerie",
+    "job": "Réceptionniste",
+    "text": "Traitement des réclamations et satisfaction client",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "hôtellerie",
+    "job": "Réceptionniste",
+    "text": "Gestion de la caisse et des règlements",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "hôtellerie",
+    "job": "Serveur",
+    "text": "Service en salle et prise de commandes",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "hôtellerie",
+    "job": "Serveur",
+    "text": "Conseil aux clients sur la carte et les accords mets/vins",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "hôtellerie",
+    "job": "Serveur",
+    "text": "Mise en place et dressage des tables",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "hôtellerie",
+    "job": "Serveur",
+    "text": "Encaissement et gestion de la caisse",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "hôtellerie",
+    "job": "Chef de cuisine",
+    "text": "Élaboration des menus et des cartes saisonnières",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "hôtellerie",
+    "job": "Chef de cuisine",
+    "text": "Management d une brigade de cuisiniers",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "hôtellerie",
+    "job": "Chef de cuisine",
+    "text": "Gestion des approvisionnements et des stocks alimentaires",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "hôtellerie",
+    "job": "Chef de cuisine",
+    "text": "Respect des normes HACCP et d hygiène alimentaire",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "bâtiment",
+    "job": "Conducteur de travaux",
+    "text": "Pilotage de chantiers de construction/rénovation",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "bâtiment",
+    "job": "Conducteur de travaux",
+    "text": "Coordination des équipes et des sous-traitants sur le chantier",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "bâtiment",
+    "job": "Conducteur de travaux",
+    "text": "Suivi des plannings, des budgets et de la qualité",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "bâtiment",
+    "job": "Conducteur de travaux",
+    "text": "Rédaction des comptes rendus de chantier et reporting",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "bâtiment",
+    "job": "Architecte",
+    "text": "Conception de projets architecturaux de l esquisse à la livraison",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "bâtiment",
+    "job": "Architecte",
+    "text": "Réalisation de plans et de documents graphiques DAO",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "bâtiment",
+    "job": "Architecte",
+    "text": "Dépôt des permis de construire et suivi administratif",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "bâtiment",
+    "job": "Architecte",
+    "text": "Suivi de chantier et coordination des corps d état",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "bâtiment",
+    "job": "Peintre",
+    "text": "Préparation des supports et application des revêtements",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "bâtiment",
+    "job": "Peintre",
+    "text": "Réalisation de finitions décoratives et effets de matière",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "bâtiment",
+    "job": "Peintre",
+    "text": "Travaux de rénovation en bâtiment neuf et ancien",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "bâtiment",
+    "job": "Électricien",
+    "text": "Installation et maintenance d équipements électriques",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "bâtiment",
+    "job": "Électricien",
+    "text": "Mise en conformité des installations électriques",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "bâtiment",
+    "job": "Électricien",
+    "text": "Diagnostic et dépannage de pannes électriques",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "bâtiment",
+    "job": "Plombier",
+    "text": "Installation de systèmes de plomberie et chauffage",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "bâtiment",
+    "job": "Plombier",
+    "text": "Dépannage et réparation d installations sanitaires",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "bâtiment",
+    "job": "Plombier",
+    "text": "Lecture de plans et respect des normes de sécurité",
+    "lang": "fr"
+  },
+  {
+    "section": "profile",
+    "jobCategory": "général",
+    "job": "",
+    "text": "Professionnel(le) polyvalent(e) avec [X] années d expérience dans le secteur",
+    "lang": "fr"
+  },
+  {
+    "section": "profile",
+    "jobCategory": "général",
+    "job": "",
+    "text": "Passionné(e) par mon domaine, je souhaite mettre mes compétences au service d une entreprise innovante",
+    "lang": "fr"
+  },
+  {
+    "section": "profile",
+    "jobCategory": "général",
+    "job": "",
+    "text": "Rigoureux(se) et organisé(e), reconnu(e) pour ma capacité à mener à bien des projets complexes",
+    "lang": "fr"
+  },
+  {
+    "section": "profile",
+    "jobCategory": "général",
+    "job": "",
+    "text": "Autonome et force de proposition, je contribue activement aux objectifs de l équipe",
+    "lang": "fr"
+  },
+  {
+    "section": "profile",
+    "jobCategory": "général",
+    "job": "",
+    "text": "Professionnel(le) reconnu(e) pour mon adaptabilité et mon sens du service client",
+    "lang": "fr"
+  },
+  {
+    "section": "profile",
+    "jobCategory": "général",
+    "job": "",
+    "text": "Fort(e) de [X] années d expérience, je recherche de nouveaux défis dans un environnement dynamique",
+    "lang": "fr"
+  },
+  {
+    "section": "profile",
+    "jobCategory": "général",
+    "job": "",
+    "text": "Diplômé(e) de [école] avec une spécialisation en [domaine], je souhaite intégrer une équipe ambitieuse",
+    "lang": "fr"
+  },
+  {
+    "section": "profile",
+    "jobCategory": "général",
+    "job": "",
+    "text": "Esprit d équipe et autonomie sont mes principales qualités professionnelles",
+    "lang": "fr"
+  },
+  {
+    "section": "profile",
+    "jobCategory": "développement",
+    "job": "Développeur",
+    "text": "Développeur(se) passionné(e) avec [X] ans d expérience en conception d applications web et mobiles",
+    "lang": "fr"
+  },
+  {
+    "section": "profile",
+    "jobCategory": "développement",
+    "job": "Développeur",
+    "text": "Ingénieur(e) logiciel spécialisé(e) dans l architecture microservices et le cloud",
+    "lang": "fr"
+  },
+  {
+    "section": "profile",
+    "jobCategory": "développement",
+    "job": "Développeur",
+    "text": "Développeur(se) full stack expérimenté(e) avec une forte appétence pour l UX et la performance",
+    "lang": "fr"
+  },
+  {
+    "section": "profile",
+    "jobCategory": "développement",
+    "job": "Développeur",
+    "text": "Jeune développeur(se) diplômé(e) d une école d ingénieur, en recherche d un premier poste challengeant",
+    "lang": "fr"
+  },
+  {
+    "section": "profile",
+    "jobCategory": "marketing",
+    "job": "Marketing",
+    "text": "Marketeur(se) créatif(ve) spécialisé(e) en acquisition digitale et stratégie de contenu",
+    "lang": "fr"
+  },
+  {
+    "section": "profile",
+    "jobCategory": "marketing",
+    "job": "Marketing",
+    "text": "Responsable marketing avec [X] ans d expérience dans le pilotage de campagnes multicanales",
+    "lang": "fr"
+  },
+  {
+    "section": "profile",
+    "jobCategory": "marketing",
+    "job": "Marketing",
+    "text": "Community manager passionné(e) par la création de liens authentiques avec les communautés",
+    "lang": "fr"
+  },
+  {
+    "section": "profile",
+    "jobCategory": "commerce",
+    "job": "Commercial",
+    "text": "Commercial(e) orienté(e) résultats avec une solide expérience en gestion de portefeuilles B2B",
+    "lang": "fr"
+  },
+  {
+    "section": "profile",
+    "jobCategory": "commerce",
+    "job": "Commercial",
+    "text": "Chargé(e) d affaires avec [X] ans d expérience dans la négociation de contrats complexes",
+    "lang": "fr"
+  },
+  {
+    "section": "profile",
+    "jobCategory": "finance",
+    "job": "Finance",
+    "text": "Professionnel(le) de la finance avec expertise en contrôle de gestion et analyse financière",
+    "lang": "fr"
+  },
+  {
+    "section": "profile",
+    "jobCategory": "finance",
+    "job": "Finance",
+    "text": "Comptable expérimenté(e) maîtrisant la comptabilité générale et les obligations fiscales",
+    "lang": "fr"
+  },
+  {
+    "section": "profile",
+    "jobCategory": "design",
+    "job": "Designer",
+    "text": "Designer UX/UI créatif(ve) avec une approche centrée utilisateur",
+    "lang": "fr"
+  },
+  {
+    "section": "profile",
+    "jobCategory": "design",
+    "job": "Designer",
+    "text": "Graphiste freelance avec [X] années d expérience en identité visuelle et supports print/digitaux",
+    "lang": "fr"
+  },
+  {
+    "section": "profile",
+    "jobCategory": "design",
+    "job": "Designer",
+    "text": "Motion designer spécialisé(e) dans la création de contenus animés pour le web",
+    "lang": "fr"
+  },
+  {
+    "section": "profile",
+    "jobCategory": "rh",
+    "job": "RH",
+    "text": "Professionnel(le) RH polyvalent(e) avec expertise en recrutement, paie et gestion des talents",
+    "lang": "fr"
+  },
+  {
+    "section": "profile",
+    "jobCategory": "rh",
+    "job": "RH",
+    "text": "Chargé(e) de recrutement spécialisé(e) dans le sourcing IT et les métiers du digital",
+    "lang": "fr"
+  },
+  {
+    "section": "profile",
+    "jobCategory": "santé",
+    "job": "Infirmier",
+    "text": "Infirmier(e) diplômé(e) d État avec [X] années d expérience en milieu hospitalier",
+    "lang": "fr"
+  },
+  {
+    "section": "profile",
+    "jobCategory": "santé",
+    "job": "Infirmier",
+    "text": "Aide-soignant(e) dévoué(e) avec une forte appétence pour la gériatrie et les soins palliatifs",
+    "lang": "fr"
+  },
+  {
+    "section": "profile",
+    "jobCategory": "enseignement",
+    "job": "Enseignant",
+    "text": "Enseignant(e) passionné(e) avec [X] années d expérience dans le secondaire",
+    "lang": "fr"
+  },
+  {
+    "section": "profile",
+    "jobCategory": "enseignement",
+    "job": "Enseignant",
+    "text": "Formateur(trice) expérimenté(e) dans la conception et l animation de formations professionnelles",
+    "lang": "fr"
+  },
+  {
+    "section": "profile",
+    "jobCategory": "logistique",
+    "job": "Logistique",
+    "text": "Responsable logistique avec [X] ans d expérience dans l optimisation des flux et la gestion d entrepôt",
+    "lang": "fr"
+  },
+  {
+    "section": "profile",
+    "jobCategory": "logistique",
+    "job": "Logistique",
+    "text": "Magasinier(ère) expérimenté(e) avec CACES et bonne connaissance des outils WMS",
+    "lang": "fr"
+  },
+  {
+    "section": "profile",
+    "jobCategory": "hôtellerie",
+    "job": "Hôtellerie",
+    "text": "Professionnel(le) de l hôtellerie avec [X] années d expérience en réception et relation client",
+    "lang": "fr"
+  },
+  {
+    "section": "profile",
+    "jobCategory": "hôtellerie",
+    "job": "Hôtellerie",
+    "text": "Chef de cuisine créatif(ve) avec une solide expérience en restauration gastronomique",
+    "lang": "fr"
+  },
+  {
+    "section": "profile",
+    "jobCategory": "bâtiment",
+    "job": "Bâtiment",
+    "text": "Conducteur(trice) de travaux avec [X] années d expérience dans le bâtiment et les travaux publics",
+    "lang": "fr"
+  },
+  {
+    "section": "profile",
+    "jobCategory": "bâtiment",
+    "job": "Bâtiment",
+    "text": "Artisan qualifié avec [X] années d expérience dans la rénovation et la finition",
+    "lang": "fr"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "développement",
+    "job": "Développeur Full Stack",
+    "text": "Developed responsive web applications with React and Node.js",
+    "lang": "en"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "développement",
+    "job": "Développeur Full Stack",
+    "text": "Designed and maintained RESTful APIs for business applications",
+    "lang": "en"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "développement",
+    "job": "Développeur Full Stack",
+    "text": "Optimized performance and loading times",
+    "lang": "en"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "développement",
+    "job": "Développeur Full Stack",
+    "text": "Participated in code reviews and continuous improvement",
+    "lang": "en"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "développement",
+    "job": "Développeur Full Stack",
+    "text": "Wrote unit and integration tests with Jest and Cypress",
+    "lang": "en"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "développement",
+    "job": "Développeur Full Stack",
+    "text": "Implemented CI/CD pipelines and deployed on AWS",
+    "lang": "en"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "développement",
+    "job": "Développeur Full Stack",
+    "text": "Managed relational and NoSQL databases",
+    "lang": "en"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "développement",
+    "job": "Développeur Frontend",
+    "text": "Built modern user interfaces with React and TypeScript",
+    "lang": "en"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "développement",
+    "job": "Développeur Frontend",
+    "text": "Integrated Figma mockups into reusable components",
+    "lang": "en"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "développement",
+    "job": "Développeur Frontend",
+    "text": "Implemented a design system with atomic components",
+    "lang": "en"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "développement",
+    "job": "Développeur Frontend",
+    "text": "Optimized Core Web Vitals and user experience",
+    "lang": "en"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "développement",
+    "job": "Développeur Backend",
+    "text": "Designed microservices architecture with Node.js and Express",
+    "lang": "en"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "développement",
+    "job": "Développeur Backend",
+    "text": "Modeled and optimized SQL and NoSQL databases",
+    "lang": "en"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "développement",
+    "job": "Développeur Backend",
+    "text": "Implemented JWT and OAuth authentication systems",
+    "lang": "en"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "développement",
+    "job": "Développeur Backend",
+    "text": "Set up CI/CD and cloud infrastructure deployment",
+    "lang": "en"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "développement",
+    "job": "Chef de projet technique",
+    "text": "Led a team of 5 to 10 developers",
+    "lang": "en"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "développement",
+    "job": "Chef de projet technique",
+    "text": "Defined technical architecture and technology choices",
+    "lang": "en"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "développement",
+    "job": "Développeur Mobile",
+    "text": "Developed native iOS and Android applications",
+    "lang": "en"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "développement",
+    "job": "Développeur Mobile",
+    "text": "Published and maintained apps on App Store and Google Play",
+    "lang": "en"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "développement",
+    "job": "Data Scientist",
+    "text": "Analyzed large datasets with Python and Pandas",
+    "lang": "en"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "développement",
+    "job": "Data Scientist",
+    "text": "Built machine learning and deep learning models",
+    "lang": "en"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "marketing",
+    "job": "Chef de projet marketing",
+    "text": "Developed and monitored multichannel marketing campaigns",
+    "lang": "en"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "marketing",
+    "job": "Chef de projet marketing",
+    "text": "Analyzed campaign performance and optimized ROI",
+    "lang": "en"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "marketing",
+    "job": "Community Manager",
+    "text": "Managed and moderated Instagram, LinkedIn and Twitter communities",
+    "lang": "en"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "marketing",
+    "job": "Community Manager",
+    "text": "Created editorial calendars and visual content",
+    "lang": "en"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "marketing",
+    "job": "Community Manager",
+    "text": "Increased engagement rates on social media",
+    "lang": "en"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "marketing",
+    "job": "Traffic Manager",
+    "text": "Managed and optimized Google Ads and Facebook Ads campaigns",
+    "lang": "en"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "marketing",
+    "job": "Rédacteur web",
+    "text": "Wrote SEO-optimized articles for the company blog",
+    "lang": "en"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "marketing",
+    "job": "Rédacteur web",
+    "text": "Created content for social media and newsletters",
+    "lang": "en"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "commerce",
+    "job": "Commercial terrain",
+    "text": "Prospected and developed B2B client portfolio",
+    "lang": "en"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "commerce",
+    "job": "Commercial terrain",
+    "text": "Negotiated and closed contracts with key accounts",
+    "lang": "en"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "commerce",
+    "job": "Commercial terrain",
+    "text": "Achieved and exceeded sales targets",
+    "lang": "en"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "commerce",
+    "job": "Téléconseiller",
+    "text": "Managed daily inbound and outbound call volume",
+    "lang": "en"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "commerce",
+    "job": "Vendeur",
+    "text": "Welcomed and advised customers in-store",
+    "lang": "en"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "commerce",
+    "job": "Responsable magasin",
+    "text": "Managed complete store operations",
+    "lang": "en"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "rh",
+    "job": "Responsable RH",
+    "text": "Developed and monitored annual recruitment plan",
+    "lang": "en"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "rh",
+    "job": "Responsable RH",
+    "text": "Managed payroll and personnel administration",
+    "lang": "en"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "rh",
+    "job": "Chargé de recrutement",
+    "text": "Wrote and published job offers on job boards",
+    "lang": "en"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "rh",
+    "job": "Chargé de recrutement",
+    "text": "Screened and conducted recruitment interviews",
+    "lang": "en"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "rh",
+    "job": "Chargé de recrutement",
+    "text": "Sourced candidates via LinkedIn and other platforms",
+    "lang": "en"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "finance",
+    "job": "Comptable",
+    "text": "Managed general accounting up to financial statements",
+    "lang": "en"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "finance",
+    "job": "Comptable",
+    "text": "Handled VAT and monthly tax declarations",
+    "lang": "en"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "finance",
+    "job": "Contrôleur de gestion",
+    "text": "Prepared and monitored departmental budgets",
+    "lang": "en"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "finance",
+    "job": "Contrôleur de gestion",
+    "text": "Analyzed variances and recommended corrective actions",
+    "lang": "en"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "finance",
+    "job": "Analyste financier",
+    "text": "Analyzed financial statements and performance ratios",
+    "lang": "en"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "design",
+    "job": "Designer UX/UI",
+    "text": "Designed user journeys and wireframes",
+    "lang": "en"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "design",
+    "job": "Designer UX/UI",
+    "text": "Created interactive mockups on Figma",
+    "lang": "en"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "design",
+    "job": "Designer UX/UI",
+    "text": "Facilitated design thinking workshops",
+    "lang": "en"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "design",
+    "job": "Graphiste",
+    "text": "Created visual identities and brand guidelines",
+    "lang": "en"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "design",
+    "job": "Graphiste",
+    "text": "Produced print and digital media",
+    "lang": "en"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "design",
+    "job": "Motion Designer",
+    "text": "Created animated videos for web and social media",
+    "lang": "en"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "management",
+    "job": "Chef de projet",
+    "text": "Managed projects from feasibility study to deployment",
+    "lang": "en"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "management",
+    "job": "Chef de projet",
+    "text": "Planned and tracked milestones with teams",
+    "lang": "en"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "management",
+    "job": "Product Manager",
+    "text": "Defined and prioritized product roadmap",
+    "lang": "en"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "management",
+    "job": "Product Manager",
+    "text": "Wrote functional specifications and user stories",
+    "lang": "en"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "santé",
+    "job": "Infirmier",
+    "text": "Managed patient care following protocols",
+    "lang": "en"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "santé",
+    "job": "Infirmier",
+    "text": "Administered treatments and monitored vital signs",
+    "lang": "en"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "santé",
+    "job": "Aide-soignant",
+    "text": "Assisted patients with daily living activities",
+    "lang": "en"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "santé",
+    "job": "Médecin",
+    "text": "Conducted consultations and medical follow-ups",
+    "lang": "en"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "enseignement",
+    "job": "Professeur des écoles",
+    "text": "Taught primary school students",
+    "lang": "en"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "enseignement",
+    "job": "Enseignant collège",
+    "text": "Taught subject in middle and high school",
+    "lang": "en"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "enseignement",
+    "job": "Professeur université",
+    "text": "Taught courses at undergraduate and graduate levels",
+    "lang": "en"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "enseignement",
+    "job": "Formateur",
+    "text": "Designed blended learning modules",
+    "lang": "en"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "logistique",
+    "job": "Magasinier",
+    "text": "Received and inspected incoming goods",
+    "lang": "en"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "logistique",
+    "job": "Magasinier",
+    "text": "Prepared and shipped customer orders",
+    "lang": "en"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "logistique",
+    "job": "Responsable logistique",
+    "text": "Supervised logistics operations: receiving, storage, shipping",
+    "lang": "en"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "hôtellerie",
+    "job": "Réceptionniste",
+    "text": "Greeted guests and managed check-in / check-out",
+    "lang": "en"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "hôtellerie",
+    "job": "Serveur",
+    "text": "Provided table service and took orders",
+    "lang": "en"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "hôtellerie",
+    "job": "Chef de cuisine",
+    "text": "Developed menus and seasonal offerings",
+    "lang": "en"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "bâtiment",
+    "job": "Conducteur de travaux",
+    "text": "Managed construction/renovation projects",
+    "lang": "en"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "bâtiment",
+    "job": "Architecte",
+    "text": "Designed architectural projects from sketch to delivery",
+    "lang": "en"
+  },
+  {
+    "section": "experience",
+    "jobCategory": "bâtiment",
+    "job": "Électricien",
+    "text": "Installed and maintained electrical equipment",
+    "lang": "en"
+  },
+  {
+    "section": "profile",
+    "jobCategory": "général",
+    "job": "",
+    "text": "Versatile professional with [X] years of experience in the industry",
+    "lang": "en"
+  },
+  {
+    "section": "profile",
+    "jobCategory": "général",
+    "job": "",
+    "text": "Passionate about my field, I aim to bring my skills to an innovative company",
+    "lang": "en"
+  },
+  {
+    "section": "profile",
+    "jobCategory": "général",
+    "job": "",
+    "text": "Rigorous and organized, recognized for my ability to deliver complex projects",
+    "lang": "en"
+  },
+  {
+    "section": "profile",
+    "jobCategory": "général",
+    "job": "",
+    "text": "Self-motivated and proactive, I actively contribute to team goals",
+    "lang": "en"
+  },
+  {
+    "section": "profile",
+    "jobCategory": "général",
+    "job": "",
+    "text": "Known for my adaptability and customer service mindset",
+    "lang": "en"
+  },
+  {
+    "section": "profile",
+    "jobCategory": "développement",
+    "job": "Développeur",
+    "text": "Passionate developer with [X] years of experience in web and mobile applications",
+    "lang": "en"
+  },
+  {
+    "section": "profile",
+    "jobCategory": "développement",
+    "job": "Développeur",
+    "text": "Software engineer specialized in microservices architecture and cloud",
+    "lang": "en"
+  },
+  {
+    "section": "profile",
+    "jobCategory": "marketing",
+    "job": "Marketing",
+    "text": "Creative marketer specialized in digital acquisition and content strategy",
+    "lang": "en"
+  },
+  {
+    "section": "profile",
+    "jobCategory": "commerce",
+    "job": "Commercial",
+    "text": "Results-driven sales professional with strong B2B portfolio management",
+    "lang": "en"
+  },
+  {
+    "section": "profile",
+    "jobCategory": "finance",
+    "job": "Finance",
+    "text": "Finance professional with expertise in management control and financial analysis",
+    "lang": "en"
+  },
+  {
+    "section": "profile",
+    "jobCategory": "design",
+    "job": "Designer",
+    "text": "Creative UX/UI designer with a user-centered approach",
+    "lang": "en"
+  },
+  {
+    "section": "profile",
+    "jobCategory": "rh",
+    "job": "RH",
+    "text": "Versatile HR professional with expertise in recruitment, payroll and talent management",
+    "lang": "en"
+  },
+  {
+    "section": "profile",
+    "jobCategory": "santé",
+    "job": "Infirmier",
+    "text": "Registered nurse with [X] years of hospital experience",
+    "lang": "en"
+  },
+  {
+    "section": "profile",
+    "jobCategory": "enseignement",
+    "job": "Enseignant",
+    "text": "Passionate teacher with [X] years of experience in secondary education",
+    "lang": "en"
+  },
+  {
+    "section": "profile",
+    "jobCategory": "logistique",
+    "job": "Logistique",
+    "text": "Logistics manager with [X] years of experience in flow optimization",
+    "lang": "en"
+  },
+  {
+    "section": "profile",
+    "jobCategory": "hôtellerie",
+    "job": "Hôtellerie",
+    "text": "Hospitality professional with [X] years of reception and customer relations experience",
+    "lang": "en"
+  },
+  {
+    "section": "profile",
+    "jobCategory": "bâtiment",
+    "job": "Bâtiment",
+    "text": "Construction project manager with [X] years of experience",
+    "lang": "en"
+  },
+  {
+    "section": "skills",
+    "jobCategory": "développement",
+    "job": "Développeur Full Stack",
+    "text": "JavaScript / TypeScript",
+    "lang": "fr"
+  },
+  {
+    "section": "skills",
+    "jobCategory": "développement",
+    "job": "Développeur Full Stack",
+    "text": "React & Next.js",
+    "lang": "fr"
+  },
+  {
+    "section": "skills",
+    "jobCategory": "développement",
+    "job": "Développeur Full Stack",
+    "text": "Node.js & Express",
+    "lang": "fr"
+  },
+  {
+    "section": "skills",
+    "jobCategory": "développement",
+    "job": "Développeur Full Stack",
+    "text": "SQL & NoSQL",
+    "lang": "fr"
+  },
+  {
+    "section": "skills",
+    "jobCategory": "développement",
+    "job": "Développeur Full Stack",
+    "text": "Docker & Kubernetes",
+    "lang": "fr"
+  },
+  {
+    "section": "skills",
+    "jobCategory": "développement",
+    "job": "Développeur Full Stack",
+    "text": "CI/CD (GitHub Actions, GitLab CI)",
+    "lang": "fr"
+  },
+  {
+    "section": "skills",
+    "jobCategory": "développement",
+    "job": "Développeur Full Stack",
+    "text": "AWS / Azure / GCP",
+    "lang": "fr"
+  },
+  {
+    "section": "skills",
+    "jobCategory": "développement",
+    "job": "Développeur Frontend",
+    "text": "React / Vue.js / Angular",
+    "lang": "fr"
+  },
+  {
+    "section": "skills",
+    "jobCategory": "développement",
+    "job": "Développeur Frontend",
+    "text": "HTML5 / CSS3 / Tailwind",
+    "lang": "fr"
+  },
+  {
+    "section": "skills",
+    "jobCategory": "développement",
+    "job": "Développeur Frontend",
+    "text": "TypeScript",
+    "lang": "fr"
+  },
+  {
+    "section": "skills",
+    "jobCategory": "développement",
+    "job": "Développeur Frontend",
+    "text": "Figma & maquettes",
+    "lang": "fr"
+  },
+  {
+    "section": "skills",
+    "jobCategory": "développement",
+    "job": "Développeur Backend",
+    "text": "Node.js / Python / Java",
+    "lang": "fr"
+  },
+  {
+    "section": "skills",
+    "jobCategory": "développement",
+    "job": "Développeur Backend",
+    "text": "APIs REST & GraphQL",
+    "lang": "fr"
+  },
+  {
+    "section": "skills",
+    "jobCategory": "développement",
+    "job": "Développeur Backend",
+    "text": "PostgreSQL / MongoDB",
+    "lang": "fr"
+  },
+  {
+    "section": "skills",
+    "jobCategory": "développement",
+    "job": "Développeur Backend",
+    "text": "Docker & DevOps",
+    "lang": "fr"
+  },
+  {
+    "section": "skills",
+    "jobCategory": "développement",
+    "job": "Data Scientist",
+    "text": "Python & Pandas",
+    "lang": "fr"
+  },
+  {
+    "section": "skills",
+    "jobCategory": "développement",
+    "job": "Data Scientist",
+    "text": "Machine Learning (scikit-learn, TensorFlow)",
+    "lang": "fr"
+  },
+  {
+    "section": "skills",
+    "jobCategory": "développement",
+    "job": "Data Scientist",
+    "text": "SQL & Big Data",
+    "lang": "fr"
+  },
+  {
+    "section": "skills",
+    "jobCategory": "développement",
+    "job": "Data Scientist",
+    "text": "Data Visualisation (Tableau, Power BI)",
+    "lang": "fr"
+  },
+  {
+    "section": "skills",
+    "jobCategory": "marketing",
+    "job": "Chef de projet marketing",
+    "text": "SEO / SEA",
+    "lang": "fr"
+  },
+  {
+    "section": "skills",
+    "jobCategory": "marketing",
+    "job": "Chef de projet marketing",
+    "text": "Google Analytics & Data Studio",
+    "lang": "fr"
+  },
+  {
+    "section": "skills",
+    "jobCategory": "marketing",
+    "job": "Chef de projet marketing",
+    "text": "CRM & Marketing Automation",
+    "lang": "fr"
+  },
+  {
+    "section": "skills",
+    "jobCategory": "marketing",
+    "job": "Community Manager",
+    "text": "Canva / Photoshop",
+    "lang": "fr"
+  },
+  {
+    "section": "skills",
+    "jobCategory": "marketing",
+    "job": "Community Manager",
+    "text": "Réseaux sociaux (Instagram, LinkedIn, TikTok)",
+    "lang": "fr"
+  },
+  {
+    "section": "skills",
+    "jobCategory": "marketing",
+    "job": "Community Manager",
+    "text": "Community Management & Modération",
+    "lang": "fr"
+  },
+  {
+    "section": "skills",
+    "jobCategory": "commerce",
+    "job": "Commercial terrain",
+    "text": "Prospection & Négociation",
+    "lang": "fr"
+  },
+  {
+    "section": "skills",
+    "jobCategory": "commerce",
+    "job": "Commercial terrain",
+    "text": "CRM (Salesforce, HubSpot)",
+    "lang": "fr"
+  },
+  {
+    "section": "skills",
+    "jobCategory": "commerce",
+    "job": "Commercial terrain",
+    "text": "Gestion de portefeuille clients",
+    "lang": "fr"
+  },
+  {
+    "section": "skills",
+    "jobCategory": "rh",
+    "job": "Responsable RH",
+    "text": "Droit du travail & Paie",
+    "lang": "fr"
+  },
+  {
+    "section": "skills",
+    "jobCategory": "rh",
+    "job": "Responsable RH",
+    "text": "SIRH & ATS",
+    "lang": "fr"
+  },
+  {
+    "section": "skills",
+    "jobCategory": "rh",
+    "job": "Responsable RH",
+    "text": "Recrutement & Marque employeur",
+    "lang": "fr"
+  },
+  {
+    "section": "skills",
+    "jobCategory": "finance",
+    "job": "Comptable",
+    "text": "Comptabilité générale",
+    "lang": "fr"
+  },
+  {
+    "section": "skills",
+    "jobCategory": "finance",
+    "job": "Comptable",
+    "text": "TVA & Fiscalité",
+    "lang": "fr"
+  },
+  {
+    "section": "skills",
+    "jobCategory": "finance",
+    "job": "Comptable",
+    "text": "Excel & ERP (SAP, Ciel)",
+    "lang": "fr"
+  },
+  {
+    "section": "skills",
+    "jobCategory": "finance",
+    "job": "Contrôleur de gestion",
+    "text": "Gestion budgétaire",
+    "lang": "fr"
+  },
+  {
+    "section": "skills",
+    "jobCategory": "finance",
+    "job": "Contrôleur de gestion",
+    "text": "Analyse financière",
+    "lang": "fr"
+  },
+  {
+    "section": "skills",
+    "jobCategory": "design",
+    "job": "Designer UX/UI",
+    "text": "Figma & Prototypage",
+    "lang": "fr"
+  },
+  {
+    "section": "skills",
+    "jobCategory": "design",
+    "job": "Designer UX/UI",
+    "text": "Design System & composants",
+    "lang": "fr"
+  },
+  {
+    "section": "skills",
+    "jobCategory": "design",
+    "job": "Designer UX/UI",
+    "text": "Recherche utilisateur & Tests",
+    "lang": "fr"
+  },
+  {
+    "section": "skills",
+    "jobCategory": "design",
+    "job": "Graphiste",
+    "text": "Suite Adobe (PS, AI, ID)",
+    "lang": "fr"
+  },
+  {
+    "section": "skills",
+    "jobCategory": "design",
+    "job": "Graphiste",
+    "text": "Identité visuelle & Branding",
+    "lang": "fr"
+  },
+  {
+    "section": "skills",
+    "jobCategory": "santé",
+    "job": "Infirmier",
+    "text": "Soins infirmiers",
+    "lang": "fr"
+  },
+  {
+    "section": "skills",
+    "jobCategory": "santé",
+    "job": "Infirmier",
+    "text": "Dossier patient informatisé",
+    "lang": "fr"
+  },
+  {
+    "section": "skills",
+    "jobCategory": "santé",
+    "job": "Infirmier",
+    "text": "Gestes d urgence",
+    "lang": "fr"
+  },
+  {
+    "section": "skills",
+    "jobCategory": "enseignement",
+    "job": "Professeur des écoles",
+    "text": "Pédagogie active",
+    "lang": "fr"
+  },
+  {
+    "section": "skills",
+    "jobCategory": "enseignement",
+    "job": "Professeur des écoles",
+    "text": "Évaluation des acquis",
+    "lang": "fr"
+  },
+  {
+    "section": "skills",
+    "jobCategory": "enseignement",
+    "job": "Enseignant collège",
+    "text": "Didactique des disciplines",
+    "lang": "fr"
+  },
+  {
+    "section": "skills",
+    "jobCategory": "logistique",
+    "job": "Magasinier",
+    "text": "WMS & gestion des stocks",
+    "lang": "fr"
+  },
+  {
+    "section": "skills",
+    "jobCategory": "logistique",
+    "job": "Magasinier",
+    "text": "CACES 1/3/5",
+    "lang": "fr"
+  },
+  {
+    "section": "skills",
+    "jobCategory": "logistique",
+    "job": "Responsable logistique",
+    "text": "Optimisation des flux",
+    "lang": "fr"
+  },
+  {
+    "section": "skills",
+    "jobCategory": "hôtellerie",
+    "job": "Réceptionniste",
+    "text": "Réservation & CRM hôtelier",
+    "lang": "fr"
+  },
+  {
+    "section": "skills",
+    "jobCategory": "hôtellerie",
+    "job": "Chef de cuisine",
+    "text": "Gestion des approvisionnements",
+    "lang": "fr"
+  },
+  {
+    "section": "skills",
+    "jobCategory": "hôtellerie",
+    "job": "Serveur",
+    "text": "Service & Relation client",
+    "lang": "fr"
+  },
+  {
+    "section": "skills",
+    "jobCategory": "bâtiment",
+    "job": "Conducteur de travaux",
+    "text": "Lecture de plans",
+    "lang": "fr"
+  },
+  {
+    "section": "skills",
+    "jobCategory": "bâtiment",
+    "job": "Conducteur de travaux",
+    "text": "Management de chantier",
+    "lang": "fr"
+  },
+  {
+    "section": "skills",
+    "jobCategory": "bâtiment",
+    "job": "Électricien",
+    "text": "Normes NF C 15-100",
+    "lang": "fr"
+  },
+  {
+    "section": "skills",
+    "jobCategory": "bâtiment",
+    "job": "Plombier",
+    "text": "Plomberie & Chauffage",
+    "lang": "fr"
+  },
+  {
+    "section": "skills",
+    "jobCategory": "développement",
+    "job": "Développeur Full Stack",
+    "text": "JavaScript / TypeScript",
+    "lang": "en"
+  },
+  {
+    "section": "skills",
+    "jobCategory": "développement",
+    "job": "Développeur Full Stack",
+    "text": "React & Next.js",
+    "lang": "en"
+  },
+  {
+    "section": "skills",
+    "jobCategory": "développement",
+    "job": "Développeur Full Stack",
+    "text": "Node.js & Express",
+    "lang": "en"
+  },
+  {
+    "section": "skills",
+    "jobCategory": "développement",
+    "job": "Développeur Full Stack",
+    "text": "SQL & NoSQL",
+    "lang": "en"
+  },
+  {
+    "section": "skills",
+    "jobCategory": "développement",
+    "job": "Développeur Full Stack",
+    "text": "Docker & Kubernetes",
+    "lang": "en"
+  },
+  {
+    "section": "skills",
+    "jobCategory": "développement",
+    "job": "Développeur Full Stack",
+    "text": "CI/CD (GitHub Actions, GitLab CI)",
+    "lang": "en"
+  },
+  {
+    "section": "skills",
+    "jobCategory": "développement",
+    "job": "Développeur Full Stack",
+    "text": "AWS / Azure / GCP",
+    "lang": "en"
+  },
+  {
+    "section": "skills",
+    "jobCategory": "développement",
+    "job": "Développeur Frontend",
+    "text": "React / Vue.js / Angular",
+    "lang": "en"
+  },
+  {
+    "section": "skills",
+    "jobCategory": "développement",
+    "job": "Développeur Frontend",
+    "text": "HTML5 / CSS3 / Tailwind",
+    "lang": "en"
+  },
+  {
+    "section": "skills",
+    "jobCategory": "développement",
+    "job": "Développeur Frontend",
+    "text": "TypeScript",
+    "lang": "en"
+  },
+  {
+    "section": "skills",
+    "jobCategory": "développement",
+    "job": "Développeur Frontend",
+    "text": "Figma & prototyping",
+    "lang": "en"
+  },
+  {
+    "section": "skills",
+    "jobCategory": "développement",
+    "job": "Développeur Backend",
+    "text": "Node.js / Python / Java",
+    "lang": "en"
+  },
+  {
+    "section": "skills",
+    "jobCategory": "développement",
+    "job": "Développeur Backend",
+    "text": "REST & GraphQL APIs",
+    "lang": "en"
+  },
+  {
+    "section": "skills",
+    "jobCategory": "développement",
+    "job": "Développeur Backend",
+    "text": "PostgreSQL / MongoDB",
+    "lang": "en"
+  },
+  {
+    "section": "skills",
+    "jobCategory": "développement",
+    "job": "Développeur Backend",
+    "text": "Docker & DevOps",
+    "lang": "en"
+  },
+  {
+    "section": "skills",
+    "jobCategory": "marketing",
+    "job": "Chef de projet marketing",
+    "text": "SEO / SEA",
+    "lang": "en"
+  },
+  {
+    "section": "skills",
+    "jobCategory": "marketing",
+    "job": "Chef de projet marketing",
+    "text": "Google Analytics & Data Studio",
+    "lang": "en"
+  },
+  {
+    "section": "skills",
+    "jobCategory": "marketing",
+    "job": "Chef de projet marketing",
+    "text": "CRM & Marketing Automation",
+    "lang": "en"
+  },
+  {
+    "section": "skills",
+    "jobCategory": "commerce",
+    "job": "Commercial terrain",
+    "text": "Sales Prospecting & Negotiation",
+    "lang": "en"
+  },
+  {
+    "section": "skills",
+    "jobCategory": "commerce",
+    "job": "Commercial terrain",
+    "text": "CRM (Salesforce, HubSpot)",
+    "lang": "en"
+  },
+  {
+    "section": "skills",
+    "jobCategory": "rh",
+    "job": "Responsable RH",
+    "text": "Labor Law & Payroll",
+    "lang": "en"
+  },
+  {
+    "section": "skills",
+    "jobCategory": "rh",
+    "job": "Responsable RH",
+    "text": "ATS & Recruitment",
+    "lang": "en"
+  },
+  {
+    "section": "skills",
+    "jobCategory": "finance",
+    "job": "Comptable",
+    "text": "General Accounting",
+    "lang": "en"
+  },
+  {
+    "section": "skills",
+    "jobCategory": "finance",
+    "job": "Comptable",
+    "text": "Tax & VAT",
+    "lang": "en"
+  },
+  {
+    "section": "skills",
+    "jobCategory": "finance",
+    "job": "Contrôleur de gestion",
+    "text": "Budget Management",
+    "lang": "en"
+  },
+  {
+    "section": "skills",
+    "jobCategory": "finance",
+    "job": "Contrôleur de gestion",
+    "text": "Financial Analysis",
+    "lang": "en"
+  },
+  {
+    "section": "skills",
+    "jobCategory": "design",
+    "job": "Designer UX/UI",
+    "text": "Figma & Prototyping",
+    "lang": "en"
+  },
+  {
+    "section": "skills",
+    "jobCategory": "design",
+    "job": "Designer UX/UI",
+    "text": "Design System & Components",
+    "lang": "en"
+  },
+  {
+    "section": "skills",
+    "jobCategory": "design",
+    "job": "Graphiste",
+    "text": "Adobe Suite (PS, AI, ID)",
+    "lang": "en"
+  },
+  {
+    "section": "skills",
+    "jobCategory": "design",
+    "job": "Graphiste",
+    "text": "Visual Identity & Branding",
+    "lang": "en"
+  },
+  {
+    "section": "education",
+    "jobCategory": "développement",
+    "job": "Développeur",
+    "text": "Master en Informatique",
+    "lang": "fr"
+  },
+  {
+    "section": "education",
+    "jobCategory": "développement",
+    "job": "Développeur",
+    "text": "Licence en Génie Logiciel",
+    "lang": "fr"
+  },
+  {
+    "section": "education",
+    "jobCategory": "développement",
+    "job": "Développeur",
+    "text": "Diplôme d ingénieur (bac+5)",
+    "lang": "fr"
+  },
+  {
+    "section": "education",
+    "jobCategory": "développement",
+    "job": "Développeur",
+    "text": "BTS SIO (Services Informatiques)",
+    "lang": "fr"
+  },
+  {
+    "section": "education",
+    "jobCategory": "développement",
+    "job": "Développeur",
+    "text": "Formation Développeur Web (bac+2)",
+    "lang": "fr"
+  },
+  {
+    "section": "education",
+    "jobCategory": "développement",
+    "job": "Développeur",
+    "text": "Bootcamp Développement Web (6 mois)",
+    "lang": "fr"
+  },
+  {
+    "section": "education",
+    "jobCategory": "développement",
+    "job": "Data Scientist",
+    "text": "Master en Data Science",
+    "lang": "fr"
+  },
+  {
+    "section": "education",
+    "jobCategory": "développement",
+    "job": "Data Scientist",
+    "text": "Diplôme d école de commerce spécialisation data",
+    "lang": "fr"
+  },
+  {
+    "section": "education",
+    "jobCategory": "marketing",
+    "job": "Marketing",
+    "text": "Master en Marketing Digital",
+    "lang": "fr"
+  },
+  {
+    "section": "education",
+    "jobCategory": "marketing",
+    "job": "Marketing",
+    "text": "Licence en Communication",
+    "lang": "fr"
+  },
+  {
+    "section": "education",
+    "jobCategory": "marketing",
+    "job": "Marketing",
+    "text": "BTS NDRC (Négociation Digitale)",
+    "lang": "fr"
+  },
+  {
+    "section": "education",
+    "jobCategory": "commerce",
+    "job": "Commercial",
+    "text": "Master en Commerce / Vente",
+    "lang": "fr"
+  },
+  {
+    "section": "education",
+    "jobCategory": "commerce",
+    "job": "Commercial",
+    "text": "BTS MCO (Management Commercial)",
+    "lang": "fr"
+  },
+  {
+    "section": "education",
+    "jobCategory": "commerce",
+    "job": "Commercial",
+    "text": "Licence en Commerce International",
+    "lang": "fr"
+  },
+  {
+    "section": "education",
+    "jobCategory": "rh",
+    "job": "RH",
+    "text": "Master en Ressources Humaines",
+    "lang": "fr"
+  },
+  {
+    "section": "education",
+    "jobCategory": "rh",
+    "job": "RH",
+    "text": "Licence en Psychologie du Travail",
+    "lang": "fr"
+  },
+  {
+    "section": "education",
+    "jobCategory": "rh",
+    "job": "RH",
+    "text": "BTS Gestion de la PME",
+    "lang": "fr"
+  },
+  {
+    "section": "education",
+    "jobCategory": "finance",
+    "job": "Finance",
+    "text": "Master en Finance / Comptabilité",
+    "lang": "fr"
+  },
+  {
+    "section": "education",
+    "jobCategory": "finance",
+    "job": "Finance",
+    "text": "DCG (Diplôme Comptabilité Gestion)",
+    "lang": "fr"
+  },
+  {
+    "section": "education",
+    "jobCategory": "finance",
+    "job": "Finance",
+    "text": "DSCG (Diplôme Supérieur Comptabilité Gestion)",
+    "lang": "fr"
+  },
+  {
+    "section": "education",
+    "jobCategory": "finance",
+    "job": "Finance",
+    "text": "BTS Comptabilité Gestion",
+    "lang": "fr"
+  },
+  {
+    "section": "education",
+    "jobCategory": "design",
+    "job": "Designer",
+    "text": "Master en Design Graphique",
+    "lang": "fr"
+  },
+  {
+    "section": "education",
+    "jobCategory": "design",
+    "job": "Designer",
+    "text": "DNA (Diplôme National d Art)",
+    "lang": "fr"
+  },
+  {
+    "section": "education",
+    "jobCategory": "design",
+    "job": "Designer",
+    "text": "BTS Design Graphique",
+    "lang": "fr"
+  },
+  {
+    "section": "education",
+    "jobCategory": "design",
+    "job": "Designer",
+    "text": "Formation UX/UI Design (6 mois)",
+    "lang": "fr"
+  },
+  {
+    "section": "education",
+    "jobCategory": "santé",
+    "job": "Infirmier",
+    "text": "Diplôme d État d Infirmier",
+    "lang": "fr"
+  },
+  {
+    "section": "education",
+    "jobCategory": "santé",
+    "job": "Infirmier",
+    "text": "Diplôme d État d Aide-Soignant",
+    "lang": "fr"
+  },
+  {
+    "section": "education",
+    "jobCategory": "santé",
+    "job": "Médecin",
+    "text": "Doctorat en Médecine",
+    "lang": "fr"
+  },
+  {
+    "section": "education",
+    "jobCategory": "enseignement",
+    "job": "Enseignant",
+    "text": "Master Métiers de l Enseignement",
+    "lang": "fr"
+  },
+  {
+    "section": "education",
+    "jobCategory": "enseignement",
+    "job": "Enseignant",
+    "text": "CAPES / Agrégation",
+    "lang": "fr"
+  },
+  {
+    "section": "education",
+    "jobCategory": "enseignement",
+    "job": "Enseignant",
+    "text": "Licence en Sciences de l Éducation",
+    "lang": "fr"
+  },
+  {
+    "section": "education",
+    "jobCategory": "logistique",
+    "job": "Logistique",
+    "text": "BTS Gestion des Transports",
+    "lang": "fr"
+  },
+  {
+    "section": "education",
+    "jobCategory": "logistique",
+    "job": "Logistique",
+    "text": "Formation CACES & Logistique",
+    "lang": "fr"
+  },
+  {
+    "section": "education",
+    "jobCategory": "hôtellerie",
+    "job": "Hôtellerie",
+    "text": "BTS Hôtellerie-Restauration",
+    "lang": "fr"
+  },
+  {
+    "section": "education",
+    "jobCategory": "hôtellerie",
+    "job": "Hôtellerie",
+    "text": "CAP Cuisine / Service",
+    "lang": "fr"
+  },
+  {
+    "section": "education",
+    "jobCategory": "bâtiment",
+    "job": "Bâtiment",
+    "text": "BTS Bâtiment / Travaux Publics",
+    "lang": "fr"
+  },
+  {
+    "section": "education",
+    "jobCategory": "bâtiment",
+    "job": "Bâtiment",
+    "text": "Licence Pro Génie Civil",
+    "lang": "fr"
+  },
+  {
+    "section": "education",
+    "jobCategory": "bâtiment",
+    "job": "Bâtiment",
+    "text": "CAP Électricien / Plombier",
+    "lang": "fr"
+  },
+  {
+    "section": "education",
+    "jobCategory": "développement",
+    "job": "Développeur",
+    "text": "Master s Degree in Computer Science",
+    "lang": "en"
+  },
+  {
+    "section": "education",
+    "jobCategory": "développement",
+    "job": "Développeur",
+    "text": "Bachelor s Degree in Software Engineering",
+    "lang": "en"
+  },
+  {
+    "section": "education",
+    "jobCategory": "développement",
+    "job": "Développeur",
+    "text": "Engineering Degree (MSc equivalent)",
+    "lang": "en"
+  },
+  {
+    "section": "education",
+    "jobCategory": "développement",
+    "job": "Développeur",
+    "text": "Web Development Bootcamp (6 months)",
+    "lang": "en"
+  },
+  {
+    "section": "education",
+    "jobCategory": "marketing",
+    "job": "Marketing",
+    "text": "Master s in Digital Marketing",
+    "lang": "en"
+  },
+  {
+    "section": "education",
+    "jobCategory": "marketing",
+    "job": "Marketing",
+    "text": "Bachelor s in Communications",
+    "lang": "en"
+  },
+  {
+    "section": "education",
+    "jobCategory": "finance",
+    "job": "Finance",
+    "text": "Master s in Finance / Accounting",
+    "lang": "en"
+  },
+  {
+    "section": "education",
+    "jobCategory": "finance",
+    "job": "Finance",
+    "text": "Bachelor s in Accounting",
+    "lang": "en"
+  },
+  {
+    "section": "education",
+    "jobCategory": "design",
+    "job": "Designer",
+    "text": "Master s in Graphic Design",
+    "lang": "en"
+  },
+  {
+    "section": "education",
+    "jobCategory": "design",
+    "job": "Designer",
+    "text": "Bachelor s in Fine Arts",
+    "lang": "en"
+  },
+  {
+    "section": "education",
+    "jobCategory": "santé",
+    "job": "Infirmier",
+    "text": "Registered Nursing Degree",
+    "lang": "en"
+  },
+  {
+    "section": "education",
+    "jobCategory": "santé",
+    "job": "Médecin",
+    "text": "Doctor of Medicine (MD)",
+    "lang": "en"
+  },
+  {
+    "section": "education",
+    "jobCategory": "enseignement",
+    "job": "Enseignant",
+    "text": "Master s in Education",
+    "lang": "en"
+  },
+  {
+    "section": "education",
+    "jobCategory": "enseignement",
+    "job": "Enseignant",
+    "text": "Teaching Certification",
+    "lang": "en"
+  },
+  {
+    "section": "languages",
+    "jobCategory": "général",
+    "job": "",
+    "text": "Français (natif)",
+    "lang": "fr"
+  },
+  {
+    "section": "languages",
+    "jobCategory": "général",
+    "job": "",
+    "text": "Anglais (courant - C1)",
+    "lang": "fr"
+  },
+  {
+    "section": "languages",
+    "jobCategory": "général",
+    "job": "",
+    "text": "Anglais (intermédiaire - B1/B2)",
+    "lang": "fr"
+  },
+  {
+    "section": "languages",
+    "jobCategory": "général",
+    "job": "",
+    "text": "Espagnol (courant)",
+    "lang": "fr"
+  },
+  {
+    "section": "languages",
+    "jobCategory": "général",
+    "job": "",
+    "text": "Allemand (intermédiaire)",
+    "lang": "fr"
+  },
+  {
+    "section": "languages",
+    "jobCategory": "général",
+    "job": "",
+    "text": "Italien (débutant)",
+    "lang": "fr"
+  },
+  {
+    "section": "languages",
+    "jobCategory": "général",
+    "job": "",
+    "text": "Arabe (natif)",
+    "lang": "fr"
+  },
+  {
+    "section": "languages",
+    "jobCategory": "général",
+    "job": "",
+    "text": "Chinois (débutant)",
+    "lang": "fr"
+  },
+  {
+    "section": "languages",
+    "jobCategory": "général",
+    "job": "",
+    "text": "Portugais (courant)",
+    "lang": "fr"
+  },
+  {
+    "section": "languages",
+    "jobCategory": "général",
+    "job": "",
+    "text": "French (native)",
+    "lang": "en"
+  },
+  {
+    "section": "languages",
+    "jobCategory": "général",
+    "job": "",
+    "text": "English (fluent - C1)",
+    "lang": "en"
+  },
+  {
+    "section": "languages",
+    "jobCategory": "général",
+    "job": "",
+    "text": "English (intermediate - B1/B2)",
+    "lang": "en"
+  },
+  {
+    "section": "languages",
+    "jobCategory": "général",
+    "job": "",
+    "text": "Spanish (fluent)",
+    "lang": "en"
+  },
+  {
+    "section": "languages",
+    "jobCategory": "général",
+    "job": "",
+    "text": "German (intermediate)",
+    "lang": "en"
+  },
+  {
+    "section": "languages",
+    "jobCategory": "général",
+    "job": "",
+    "text": "Italian (beginner)",
+    "lang": "en"
+  },
+  {
+    "section": "languages",
+    "jobCategory": "général",
+    "job": "",
+    "text": "Arabic (native)",
+    "lang": "en"
+  },
+  {
+    "section": "languages",
+    "jobCategory": "général",
+    "job": "",
+    "text": "Chinese (beginner)",
+    "lang": "en"
+  },
+  {
+    "section": "languages",
+    "jobCategory": "général",
+    "job": "",
+    "text": "Portuguese (fluent)",
+    "lang": "en"
+  },
+  {
+    "section": "interests",
+    "jobCategory": "général",
+    "job": "",
+    "text": "Course à pied / Running",
+    "lang": "fr"
+  },
+  {
+    "section": "interests",
+    "jobCategory": "général",
+    "job": "",
+    "text": "Photographie",
+    "lang": "fr"
+  },
+  {
+    "section": "interests",
+    "jobCategory": "général",
+    "job": "",
+    "text": "Voyages et découvertes culturelles",
+    "lang": "fr"
+  },
+  {
+    "section": "interests",
+    "jobCategory": "général",
+    "job": "",
+    "text": "Lecture (littérature, essais)",
+    "lang": "fr"
+  },
+  {
+    "section": "interests",
+    "jobCategory": "général",
+    "job": "",
+    "text": "Sports collectifs (football, basket)",
+    "lang": "fr"
+  },
+  {
+    "section": "interests",
+    "jobCategory": "général",
+    "job": "",
+    "text": "Yoga et méditation",
+    "lang": "fr"
+  },
+  {
+    "section": "interests",
+    "jobCategory": "général",
+    "job": "",
+    "text": "Musique (guitare, piano)",
+    "lang": "fr"
+  },
+  {
+    "section": "interests",
+    "jobCategory": "général",
+    "job": "",
+    "text": "Cuisine et gastronomie",
+    "lang": "fr"
+  },
+  {
+    "section": "interests",
+    "jobCategory": "général",
+    "job": "",
+    "text": "Randonnée et nature",
+    "lang": "fr"
+  },
+  {
+    "section": "interests",
+    "jobCategory": "général",
+    "job": "",
+    "text": "Jeux vidéo et gaming",
+    "lang": "fr"
+  },
+  {
+    "section": "interests",
+    "jobCategory": "général",
+    "job": "",
+    "text": "Bénévolat et associations",
+    "lang": "fr"
+  },
+  {
+    "section": "interests",
+    "jobCategory": "général",
+    "job": "",
+    "text": "Art et musées",
+    "lang": "fr"
+  },
+  {
+    "section": "interests",
+    "jobCategory": "général",
+    "job": "",
+    "text": "Running / Jogging",
+    "lang": "en"
+  },
+  {
+    "section": "interests",
+    "jobCategory": "général",
+    "job": "",
+    "text": "Photography",
+    "lang": "en"
+  },
+  {
+    "section": "interests",
+    "jobCategory": "général",
+    "job": "",
+    "text": "Travel and cultural discoveries",
+    "lang": "en"
+  },
+  {
+    "section": "interests",
+    "jobCategory": "général",
+    "job": "",
+    "text": "Reading (literature, essays)",
+    "lang": "en"
+  },
+  {
+    "section": "interests",
+    "jobCategory": "général",
+    "job": "",
+    "text": "Team sports (soccer, basketball)",
+    "lang": "en"
+  },
+  {
+    "section": "interests",
+    "jobCategory": "général",
+    "job": "",
+    "text": "Yoga and meditation",
+    "lang": "en"
+  },
+  {
+    "section": "interests",
+    "jobCategory": "général",
+    "job": "",
+    "text": "Music (guitar, piano)",
+    "lang": "en"
+  },
+  {
+    "section": "interests",
+    "jobCategory": "général",
+    "job": "",
+    "text": "Cooking and gastronomy",
+    "lang": "en"
+  },
+  {
+    "section": "interests",
+    "jobCategory": "général",
+    "job": "",
+    "text": "Hiking and nature",
+    "lang": "en"
+  },
+  {
+    "section": "interests",
+    "jobCategory": "général",
+    "job": "",
+    "text": "Video games and gaming",
+    "lang": "en"
+  },
+  {
+    "section": "interests",
+    "jobCategory": "général",
+    "job": "",
+    "text": "Volunteering and associations",
+    "lang": "en"
+  },
+  {
+    "section": "interests",
+    "jobCategory": "général",
+    "job": "",
+    "text": "Art and museums",
+    "lang": "en"
+  },
+  {
+    "section": "achievements",
+    "jobCategory": "développement",
+    "job": "Développeur",
+    "text": "Optimisation des performances : réduction de 40% du temps de chargement",
+    "lang": "fr"
+  },
+  {
+    "section": "achievements",
+    "jobCategory": "développement",
+    "job": "Développeur",
+    "text": "Migration réussie d une architecture monolithique vers des microservices",
+    "lang": "fr"
+  },
+  {
+    "section": "achievements",
+    "jobCategory": "développement",
+    "job": "Développeur",
+    "text": "Mise en place d une couverture de tests > 80%",
+    "lang": "fr"
+  },
+  {
+    "section": "achievements",
+    "jobCategory": "développement",
+    "job": "Développeur",
+    "text": "Déploiement d une application servant 100k+ utilisateurs quotidiens",
+    "lang": "fr"
+  },
+  {
+    "section": "achievements",
+    "jobCategory": "marketing",
+    "job": "Marketing",
+    "text": "Augmentation de 150% du trafic organique en 6 mois",
+    "lang": "fr"
+  },
+  {
+    "section": "achievements",
+    "jobCategory": "marketing",
+    "job": "Marketing",
+    "text": "Campagne ayant généré 500+ leads qualifiés",
+    "lang": "fr"
+  },
+  {
+    "section": "achievements",
+    "jobCategory": "marketing",
+    "job": "Marketing",
+    "text": "Community management : +200% d engagement sur 1 an",
+    "lang": "fr"
+  },
+  {
+    "section": "achievements",
+    "jobCategory": "commerce",
+    "job": "Commercial",
+    "text": "+30% de chiffre d affaires sur le portefeuille existant",
+    "lang": "fr"
+  },
+  {
+    "section": "achievements",
+    "jobCategory": "commerce",
+    "job": "Commercial",
+    "text": "Signature de 5 nouveaux comptes majeurs en 2024",
+    "lang": "fr"
+  },
+  {
+    "section": "achievements",
+    "jobCategory": "commerce",
+    "job": "Commercial",
+    "text": "Meilleur vendeur de l équipe 3 années consécutives",
+    "lang": "fr"
+  },
+  {
+    "section": "achievements",
+    "jobCategory": "design",
+    "job": "Designer",
+    "text": "Refonte complète de l identité visuelle d une marque",
+    "lang": "fr"
+  },
+  {
+    "section": "achievements",
+    "jobCategory": "design",
+    "job": "Designer",
+    "text": "Design system adopté par 4 équipes produit",
+    "lang": "fr"
+  },
+  {
+    "section": "achievements",
+    "jobCategory": "finance",
+    "job": "Finance",
+    "text": "Réduction de 15% des coûts via optimisation budgétaire",
+    "lang": "fr"
+  },
+  {
+    "section": "achievements",
+    "jobCategory": "rh",
+    "job": "RH",
+    "text": "Mise en place d un processus de recrutement réduisant le time-to-hire de 30%",
+    "lang": "fr"
+  },
+  {
+    "section": "achievements",
+    "jobCategory": "management",
+    "job": "Management",
+    "text": "Pilotage d un projet de 2M€ livré dans les délais",
+    "lang": "fr"
+  },
+  {
+    "section": "achievements",
+    "jobCategory": "santé",
+    "job": "Infirmier",
+    "text": "Prise en charge de 20+ patients par jour en service hospitalier",
+    "lang": "fr"
+  },
+  {
+    "section": "achievements",
+    "jobCategory": "enseignement",
+    "job": "Enseignant",
+    "text": "90% de réussite au baccalauréat dans les classes suivies",
+    "lang": "fr"
+  },
+  {
+    "section": "achievements",
+    "jobCategory": "logistique",
+    "job": "Logistique",
+    "text": "Optimisation des stocks réduisant les coûts de 20%",
+    "lang": "fr"
+  },
+  {
+    "section": "achievements",
+    "jobCategory": "développement",
+    "job": "Développeur",
+    "text": "Performance optimization: reduced load time by 40%",
+    "lang": "en"
+  },
+  {
+    "section": "achievements",
+    "jobCategory": "développement",
+    "job": "Développeur",
+    "text": "Successfully migrated monolithic architecture to microservices",
+    "lang": "en"
+  },
+  {
+    "section": "achievements",
+    "jobCategory": "développement",
+    "job": "Développeur",
+    "text": "Implemented test coverage above 80%",
+    "lang": "en"
+  },
+  {
+    "section": "achievements",
+    "jobCategory": "développement",
+    "job": "Développeur",
+    "text": "Deployed application serving 100k+ daily users",
+    "lang": "en"
+  },
+  {
+    "section": "achievements",
+    "jobCategory": "marketing",
+    "job": "Marketing",
+    "text": "Increased organic traffic by 150% in 6 months",
+    "lang": "en"
+  },
+  {
+    "section": "achievements",
+    "jobCategory": "marketing",
+    "job": "Marketing",
+    "text": "Campaign generated 500+ qualified leads",
+    "lang": "en"
+  },
+  {
+    "section": "achievements",
+    "jobCategory": "marketing",
+    "job": "Marketing",
+    "text": "Community management: +200% engagement YoY",
+    "lang": "en"
+  },
+  {
+    "section": "achievements",
+    "jobCategory": "commerce",
+    "job": "Commercial",
+    "text": "Grew portfolio revenue by 30%",
+    "lang": "en"
+  },
+  {
+    "section": "achievements",
+    "jobCategory": "commerce",
+    "job": "Commercial",
+    "text": "Signed 5 new major accounts in 2024",
+    "lang": "en"
+  },
+  {
+    "section": "achievements",
+    "jobCategory": "design",
+    "job": "Designer",
+    "text": "Complete visual identity redesign for a brand",
+    "lang": "en"
+  },
+  {
+    "section": "achievements",
+    "jobCategory": "finance",
+    "job": "Finance",
+    "text": "Reduced costs by 15% through budget optimization",
+    "lang": "en"
+  },
+  {
+    "section": "achievements",
+    "jobCategory": "management",
+    "job": "Management",
+    "text": "Managed a €2M project delivered on time",
+    "lang": "en"
+  },
+  {
+    "section": "softskills",
+    "jobCategory": "général",
+    "job": "",
+    "text": "Travail en équipe et collaboration",
+    "lang": "fr"
+  },
+  {
+    "section": "softskills",
+    "jobCategory": "général",
+    "job": "",
+    "text": "Communication interpersonnelle",
+    "lang": "fr"
+  },
+  {
+    "section": "softskills",
+    "jobCategory": "général",
+    "job": "",
+    "text": "Résolution de problèmes complexes",
+    "lang": "fr"
+  },
+  {
+    "section": "softskills",
+    "jobCategory": "général",
+    "job": "",
+    "text": "Adaptabilité et flexibilité",
+    "lang": "fr"
+  },
+  {
+    "section": "softskills",
+    "jobCategory": "général",
+    "job": "",
+    "text": "Leadership et prise de décision",
+    "lang": "fr"
+  },
+  {
+    "section": "softskills",
+    "jobCategory": "général",
+    "job": "",
+    "text": "Gestion du temps et des priorités",
+    "lang": "fr"
+  },
+  {
+    "section": "softskills",
+    "jobCategory": "général",
+    "job": "",
+    "text": "Créativité et innovation",
+    "lang": "fr"
+  },
+  {
+    "section": "softskills",
+    "jobCategory": "général",
+    "job": "",
+    "text": "Esprit d analyse et synthèse",
+    "lang": "fr"
+  },
+  {
+    "section": "softskills",
+    "jobCategory": "général",
+    "job": "",
+    "text": "Autonomie et initiative",
+    "lang": "fr"
+  },
+  {
+    "section": "softskills",
+    "jobCategory": "général",
+    "job": "",
+    "text": "Capacité à travailler sous pression",
+    "lang": "fr"
+  },
+  {
+    "section": "softskills",
+    "jobCategory": "général",
+    "job": "",
+    "text": "Sens du service client",
+    "lang": "fr"
+  },
+  {
+    "section": "softskills",
+    "jobCategory": "général",
+    "job": "",
+    "text": "Négociation et persuasion",
+    "lang": "fr"
+  },
+  {
+    "section": "softskills",
+    "jobCategory": "général",
+    "job": "",
+    "text": "Teamwork and collaboration",
+    "lang": "en"
+  },
+  {
+    "section": "softskills",
+    "jobCategory": "général",
+    "job": "",
+    "text": "Interpersonal communication",
+    "lang": "en"
+  },
+  {
+    "section": "softskills",
+    "jobCategory": "général",
+    "job": "",
+    "text": "Complex problem solving",
+    "lang": "en"
+  },
+  {
+    "section": "softskills",
+    "jobCategory": "général",
+    "job": "",
+    "text": "Adaptability and flexibility",
+    "lang": "en"
+  },
+  {
+    "section": "softskills",
+    "jobCategory": "général",
+    "job": "",
+    "text": "Leadership and decision making",
+    "lang": "en"
+  },
+  {
+    "section": "softskills",
+    "jobCategory": "général",
+    "job": "",
+    "text": "Time management and prioritization",
+    "lang": "en"
+  },
+  {
+    "section": "softskills",
+    "jobCategory": "général",
+    "job": "",
+    "text": "Creativity and innovation",
+    "lang": "en"
+  },
+  {
+    "section": "softskills",
+    "jobCategory": "général",
+    "job": "",
+    "text": "Analytical and critical thinking",
+    "lang": "en"
+  },
+  {
+    "section": "softskills",
+    "jobCategory": "général",
+    "job": "",
+    "text": "Autonomy and initiative",
+    "lang": "en"
+  },
+  {
+    "section": "softskills",
+    "jobCategory": "général",
+    "job": "",
+    "text": "Ability to work under pressure",
+    "lang": "en"
+  },
+  {
+    "section": "softskills",
+    "jobCategory": "général",
+    "job": "",
+    "text": "Customer service orientation",
+    "lang": "en"
+  },
+  {
+    "section": "softskills",
+    "jobCategory": "général",
+    "job": "",
+    "text": "Negotiation and persuasion",
+    "lang": "en"
+  }
+]
