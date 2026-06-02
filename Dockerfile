@@ -2,7 +2,6 @@ FROM node:22-alpine AS base
 WORKDIR /app
 
 FROM base AS frontend-build
-ENV VITE_BASE=/moncv/
 COPY frontend/package.json frontend/package-lock.json ./frontend/
 RUN cd frontend && npm ci
 COPY frontend/ ./frontend/

@@ -1,8 +1,7 @@
 import axios from 'axios'
 import type { CV, Template, Suggestion, User } from '../types'
 
-const baseURL = import.meta.env.BASE_URL === '/' ? '/api' : `${import.meta.env.BASE_URL}api`
-const api = axios.create({ baseURL })
+const api = axios.create({ baseURL: '/api' })
 
 api.interceptors.request.use((config) => {
   const token = localStorage.getItem('token')
