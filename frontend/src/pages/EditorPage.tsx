@@ -7,6 +7,8 @@ import CVPreview from '../components/CVPreview'
 import jsPDF from 'jspdf'
 import html2canvas from 'html2canvas'
 
+
+
 const emptyCV: CV = {
   id: '', userId: null, templateId: '',
   title: 'Mon CV',
@@ -39,7 +41,10 @@ export default function EditorPage() {
   const [saved, setSaved] = useState(false)
   const [colorPicker, setColorPicker] = useState<string | null>(null)
   const [suggestLang, setSuggestLang] = useState('fr')
+  const [suggestionsLoading, setSuggestionsLoading] = useState(false)
+  const [saveError, setSaveError] = useState(false)
   const [menuOpen, setMenuOpen] = useState(false)
+  const suggestReqId = useRef(0)
   const previewRef = useRef<HTMLDivElement>(null)
 
   useEffect(() => {
@@ -50,16 +55,19 @@ export default function EditorPage() {
         const t = templates.find((x) => x.id === data.templateId)
         if (t) setTemplate(t)
       })
-    })
+    }).catch(() => navigate('/dashboard'))
   }, [id])
 
   const save = useCallback(async (updated: CV) => {
     setSaving(true)
+    setSaveError(false)
     try {
       await updateCV(updated.id, updated)
       setSaved(true)
       setTimeout(() => setSaved(false), 2000)
-    } catch {}
+    } catch {
+      setSaveError(true)
+    }
     setSaving(false)
   }, [])
 
@@ -82,8 +90,15 @@ export default function EditorPage() {
   }
 
   const loadSuggestions = async (section?: string, job?: string) => {
-    const s = await getSuggestions(job || cv.personalInfo.title, section, suggestLang)
-    setSuggestions(s)
+    const reqId = ++suggestReqId.current
+    setSuggestionsLoading(true)
+    try {
+      const s = await getSuggestions(job || cv.personalInfo.title, section, suggestLang)
+      if (reqId === suggestReqId.current) setSuggestions(s)
+    } catch {
+      if (reqId === suggestReqId.current) setSuggestions([])
+    }
+    if (reqId === suggestReqId.current) setSuggestionsLoading(false)
   }
 
   useEffect(() => {
@@ -92,7 +107,9 @@ export default function EditorPage() {
       skills: 'skills', languages: 'languages', interests: 'interests',
     }
     const s = sectionMap[activeSection]
-    if (s) loadSuggestions(s)
+    if (!s) return
+    const timer = setTimeout(() => loadSuggestions(s), 300)
+    return () => clearTimeout(timer)
   }, [activeSection, cv.personalInfo.title, suggestLang])
 
   const addSuggestionToTasks = (suggestion: Suggestion, expId: string) => {
@@ -271,8 +288,8 @@ export default function EditorPage() {
             </div>
           </div>
           <div className="flex items-center gap-2">
-            <span className={`text-xs ${saved ? 'text-green-600' : 'text-gray-400'}`}>
-              {saving ? 'Sauvegarde...' : saved ? 'Sauvegardé' : ''}
+            <span className={`text-xs ${saveError ? 'text-red-600' : saved ? 'text-green-600' : 'text-gray-400'}`}>
+              {saveError ? 'Erreur de sauvegarde' : saving ? 'Sauvegarde...' : saved ? 'Sauvegardé' : ''}
             </span>
             <button
               onClick={() => setSuggestLang(suggestLang === 'fr' ? 'en' : 'fr')}
@@ -398,7 +415,9 @@ export default function EditorPage() {
                 className="w-full rounded-xl border border-gray-300 px-4 py-3 focus:ring-2 focus:ring-blue-500 outline-none resize-none text-sm"
                 placeholder="ex : Développeur Full Stack avec 5 ans d'expérience..."
               />
-              {suggestions.filter((s) => s.section === 'profile').length > 0 && (
+              {suggestionsLoading ? (
+                <p className="text-xs text-gray-400">Chargement...</p>
+              ) : suggestions.filter((s) => s.section === 'profile').length > 0 && (
                 <div>
                   <p className="text-xs font-medium text-gray-500 mb-2 uppercase tracking-wider">Suggestions</p>
                   <div className="space-y-1.5">
@@ -479,7 +498,9 @@ export default function EditorPage() {
                       + Ajouter une mission
                     </button>
                   </div>
-                  {suggestions.filter((s) => s.section === 'experience').length > 0 && (
+                  {suggestionsLoading ? (
+                    <p className="text-xs text-gray-400">Chargement...</p>
+                  ) : suggestions.filter((s) => s.section === 'experience').length > 0 && (
                     <div className="bg-blue-50 rounded-xl p-4">
                       <p className="text-xs font-semibold text-blue-700 mb-2 uppercase tracking-wider">Suggestions</p>
                       <div className="space-y-1.5">
@@ -514,7 +535,9 @@ export default function EditorPage() {
                   + Ajouter
                 </button>
               </div>
-              {suggestions.filter((s) => s.section === 'education').length > 0 && (
+              {suggestionsLoading ? (
+                <p className="text-xs text-gray-400">Chargement...</p>
+              ) : suggestions.filter((s) => s.section === 'education').length > 0 && (
                 <div className="bg-blue-50 rounded-xl p-4">
                   <p className="text-xs font-semibold text-blue-700 mb-2 uppercase tracking-wider">Suggestions</p>
                   <div className="flex flex-wrap gap-1.5">
@@ -565,7 +588,9 @@ export default function EditorPage() {
                   + Ajouter
                 </button>
               </div>
-              {suggestions.filter((s) => s.section === 'skills').length > 0 && (
+              {suggestionsLoading ? (
+                <p className="text-xs text-gray-400">Chargement...</p>
+              ) : suggestions.filter((s) => s.section === 'skills').length > 0 && (
                 <div className="bg-blue-50 rounded-xl p-4">
                   <p className="text-xs font-semibold text-blue-700 mb-2 uppercase tracking-wider">Suggestions</p>
                   <div className="flex flex-wrap gap-1.5">
@@ -642,7 +667,9 @@ export default function EditorPage() {
                   + Ajouter
                 </button>
               </div>
-              {suggestions.filter((s) => s.section === 'languages').length > 0 && (
+              {suggestionsLoading ? (
+                <p className="text-xs text-gray-400">Chargement...</p>
+              ) : suggestions.filter((s) => s.section === 'languages').length > 0 && (
                 <div className="bg-blue-50 rounded-xl p-4">
                   <p className="text-xs font-semibold text-blue-700 mb-2 uppercase tracking-wider">Suggestions</p>
                   <div className="flex flex-wrap gap-1.5">
@@ -699,7 +726,9 @@ export default function EditorPage() {
             <div className="bg-white rounded-2xl p-6 border space-y-4 shadow-sm">
               <h2 className="text-xl font-bold text-gray-900">Centres d'intérêt</h2>
               <p className="text-sm text-gray-500">Ajoutez vos hobbies et activités personnelles.</p>
-              {suggestions.filter((s) => s.section === 'interests').length > 0 && (
+              {suggestionsLoading ? (
+                <p className="text-xs text-gray-400">Chargement...</p>
+              ) : suggestions.filter((s) => s.section === 'interests').length > 0 && (
                 <div className="bg-blue-50 rounded-xl p-4">
                   <p className="text-xs font-semibold text-blue-700 mb-2 uppercase tracking-wider">Suggestions</p>
                   <div className="flex flex-wrap gap-1.5">
