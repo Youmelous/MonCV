@@ -5,4 +5,4 @@ dist
 *.md
 .DS_Store
 backend/data/moncv.json
-frontend/public/previews
+# frontend/public/previews
