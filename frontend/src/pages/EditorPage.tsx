@@ -48,6 +48,7 @@ export default function EditorPage() {
   const [suggestionsLoading, setSuggestionsLoading] = useState(false)
   const [saveError, setSaveError] = useState(false)
   const [menuOpen, setMenuOpen] = useState(false)
+  const [lastSaved, setLastSaved] = useState('')
   const suggestReqId = useRef(0)
   const previewRef = useRef<HTMLDivElement>(null)
 
@@ -55,6 +56,7 @@ export default function EditorPage() {
     if (!id) return
     getCV(id).then((data) => {
       setCV(data)
+      if (data.updatedAt) setLastSaved(new Date(data.updatedAt).toLocaleString('fr-FR'))
       getTemplates().then((templates) => {
         const t = templates.find((x) => x.id === data.templateId)
         if (t) setTemplate(t)
@@ -68,6 +70,7 @@ export default function EditorPage() {
     try {
       await updateCV(updated.id, updated)
       setSaved(true)
+      setLastSaved(new Date().toLocaleString('fr-FR'))
       setTimeout(() => setSaved(false), 2000)
     } catch {
       setSaveError(true)
@@ -276,7 +279,12 @@ export default function EditorPage() {
         <div className="max-w-7xl mx-auto flex items-center justify-between">
           <div className="flex items-center gap-3">
             <button onClick={() => navigate('/dashboard')} className="text-gray-400 hover:text-gray-600 text-xl">&larr;</button>
-            <span className="font-bold text-blue-900">MonCV</span>
+            <input
+              value={cv.title}
+              onChange={(e) => updateField('title', e.target.value)}
+              className="font-bold text-blue-900 bg-transparent border-b border-transparent hover:border-blue-300 focus:border-blue-600 outline-none text-sm max-w-[160px]"
+              placeholder="Nom du CV"
+            />
             <div className="hidden sm:flex items-center gap-1 ml-4">
               {sections.slice(0, 6).map((s, i) => (
                 <button
@@ -292,9 +300,11 @@ export default function EditorPage() {
             </div>
           </div>
           <div className="flex items-center gap-2">
-            <span className={`text-xs ${saveError ? 'text-red-600' : saved ? 'text-green-600' : 'text-gray-400'}`}>
-              {saveError ? 'Erreur de sauvegarde' : saving ? 'Sauvegarde...' : saved ? 'Sauvegardé' : ''}
-            </span>
+            <div className="text-right">
+              <div className={`text-xs ${saveError ? 'text-red-600' : saved ? 'text-green-600' : 'text-gray-400'}`}>
+                {saveError ? 'Erreur de sauvegarde' : saving ? 'Sauvegarde...' : saved ? 'Sauvegardé' : lastSaved ? `Sauvegardé à ${lastSaved}` : ''}
+              </div>
+            </div>
             <button
               onClick={() => setSuggestLang(suggestLang === 'fr' ? 'en' : 'fr')}
               className="px-3 py-1.5 text-xs border rounded-lg hover:bg-gray-50"
