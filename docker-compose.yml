@@ -1,0 +1,15 @@
+services:
+  moncv:
+    build: .
+    container_name: moncv
+    restart: unless-stopped
+    ports:
+      - "3001:3001"
+    environment:
+      - NODE_ENV=production
+      - JWT_SECRET=${JWT_SECRET:-change-me-in-production}
+    volumes:
+      - moncv_data:/app/backend/data
+
+volumes:
+  moncv_data:
