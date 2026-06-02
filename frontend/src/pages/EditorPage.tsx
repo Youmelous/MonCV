@@ -9,6 +9,10 @@ import html2canvas from 'html2canvas'
 
 
 
+const uid = () => {
+  try { return crypto.randomUUID() } catch { return Date.now().toString(36) + Math.random().toString(36).slice(2) }
+}
+
 const emptyCV: CV = {
   id: '', userId: null, templateId: '',
   title: 'Mon CV',
@@ -125,7 +129,7 @@ export default function EditorPage() {
 
   const addExperience = () => {
     const newExp: Experience = {
-      id: crypto.randomUUID(), company: '', position: '', startDate: '', endDate: '', current: false, description: '', tasks: [],
+      id: uid(), company: '', position: '', startDate: '', endDate: '', current: false, description: '', tasks: [],
     }
     updateField('experience', [...cv.experience, newExp])
   }
@@ -139,7 +143,7 @@ export default function EditorPage() {
   const removeExperience = (id: string) => updateField('experience', cv.experience.filter((e) => e.id !== id))
 
   const addEducation = () => {
-    const newEdu: Education = { id: crypto.randomUUID(), school: '', degree: '', field: '', startDate: '', endDate: '' }
+    const newEdu: Education = { id: uid(), school: '', degree: '', field: '', startDate: '', endDate: '' }
     updateField('education', [...cv.education, newEdu])
   }
 
@@ -152,7 +156,7 @@ export default function EditorPage() {
   const removeEducation = (id: string) => updateField('education', cv.education.filter((e) => e.id !== id))
 
   const addSkill = () => {
-    const newSkill: SkillCategory = { id: crypto.randomUUID(), category: '', items: [''] }
+    const newSkill: SkillCategory = { id: uid(), category: '', items: [''] }
     updateField('skills', [...cv.skills, newSkill])
   }
 
@@ -165,7 +169,7 @@ export default function EditorPage() {
   const removeSkill = (id: string) => updateField('skills', cv.skills.filter((s) => s.id !== id))
 
   const addLanguage = () => {
-    const newLang: Language = { id: crypto.randomUUID(), language: '', level: 'Intermédiaire' }
+    const newLang: Language = { id: uid(), language: '', level: 'Intermédiaire' }
     updateField('languages', [...cv.languages, newLang])
   }
 
@@ -545,7 +549,7 @@ export default function EditorPage() {
                       <button
                         key={i}
                         onClick={() => {
-                          const updated = {...cv, education: [...cv.education, {id: crypto.randomUUID(), school: '', degree: s.text, field: '', startDate: '', endDate: ''}]}
+                          const updated = {...cv, education: [...cv.education, {id: uid(), school: '', degree: s.text, field: '', startDate: '', endDate: ''}]}
                           setCV(updated); save(updated)
                         }}
                         className="text-sm bg-white hover:bg-blue-100 px-4 py-2 rounded-xl border border-blue-100 transition-colors"
@@ -603,7 +607,7 @@ export default function EditorPage() {
                             const updated = {...cv, skills: cv.skills.map(sk => sk.id === cat.id ? {...sk, items: [...sk.items, s.text]} : sk)}
                             setCV(updated); save(updated)
                           } else {
-                            const updated = {...cv, skills: [...cv.skills, {id: crypto.randomUUID(), category: s.jobCategory, items: [s.text]}]}
+                            const updated = {...cv, skills: [...cv.skills, {id: uid(), category: s.jobCategory, items: [s.text]}]}
                             setCV(updated); save(updated)
                           }
                         }}
@@ -678,7 +682,7 @@ export default function EditorPage() {
                         key={i}
                         onClick={() => {
                           const level = s.text.includes('natif') || s.text.includes('native') ? 'Natif' : s.text.includes('courant') || s.text.includes('fluent') ? 'Courant' : 'Intermédiaire'
-                          const updated = {...cv, languages: [...cv.languages, {id: crypto.randomUUID(), language: s.text.replace(/\(.*\)/,'').trim(), level}]}
+                          const updated = {...cv, languages: [...cv.languages, {id: uid(), language: s.text.replace(/\(.*\)/,'').trim(), level}]}
                           setCV(updated); save(updated)
                         }}
                         className="text-sm bg-white hover:bg-blue-100 px-4 py-2 rounded-xl border border-blue-100 transition-colors"
